@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sunil's Home"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Sunil Aryal, PhD"
   avatar           : "Sunil.png"
-  bio              : "Lecturer in IT at the School of Engineering and Information Technology, Faculty of Science and Technology, Federation University Australia."
-  location         : "Geelong, Victoria, Australia"
-  employer         : "Federation University Australia"
+  bio              : "Lecturer in IT"
+  location         : "Federation University Australia"
+  employer         : "Mt. Helen, VIC, Australia"
   googlescholar    : "https://scholar.google.com.au/citations?user=Ivj3Mm0AAAAJ&hl=en"
   email            : "sunil.aryal@federation.edu.au"
   uri              :
