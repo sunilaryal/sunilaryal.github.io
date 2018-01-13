@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sunil's Homepage"
+title                    : "Sunil's Home"
 title_separator          : "-"
 name                     : "Homepage of Sunil Aryal"
-description              : &description "personal description"
+description              : "Homepage of Sunil Aryal"
 url                      : https://sunilaryal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sunilaryal/sunilaryal.github.io"
@@ -82,7 +82,7 @@ author:
   avatar           : "Sunil.png"
   bio              : "Lecturer in IT"
   location         : "Geelong, Victoria, Australia"
-  employer         : "Federation University, Mt Helen Campus"
+  employer         : "Federation University Australia"
   googlescholar    : "https://scholar.google.com.au/citations?user=Ivj3Mm0AAAAJ&hl=en"
   email            : "sunil.aryal@federation.edu.au"
   uri              :
@@ -90,7 +90,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "sunil.aryal.96"
+  facebook         : "https://www.facebook.com/sunil.aryal.96"
   foursquare       :
   github           : "sunilaryal"
   google_plus      :
