@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Sunil's Home"
 title_separator          : "-"
-name                     : "Homepage of Sunil Aryal"
-description              : "Homepage of Sunil Aryal"
+name                     : &name "Your Name"
+description              : &description "personal description"
 url                      : https://sunilaryal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sunilaryal/sunilaryal.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Sunil Aryal, PhD"
   avatar           : "Sunil.png"
-  bio              : "Lecturer in IT"
+  bio              : "Lecturer in IT at the School of Engineering and Information Technology, Faculty of Science and Technology, Federation University Australia."
   location         : "Geelong, Victoria, Australia"
   employer         : "Federation University Australia"
   googlescholar    : "https://scholar.google.com.au/citations?user=Ivj3Mm0AAAAJ&hl=en"
@@ -90,15 +90,15 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/sunil.aryal.96"
+  facebook         : "sunil.aryal.96"
   foursquare       :
   github           : "sunilaryal"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/sunil-aryal-7a583656/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "sunil-aryal-7a583656/"
+  orcid            : "http://orcid.org/0000-0002-6639-6824"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
