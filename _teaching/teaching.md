@@ -2,8 +2,8 @@
 
 I am developing, coordinating, moderating, lecturing and tutorng a wide range of IT courses, particularly in the areas of programming, software engineering and project management.
 
-Federation University (Coordination, moderation, lecturing and tutorials) 2016 - current
-----------------------------------------------------------------------------------------
+Federation University (coordination, moderation, lectures and tutorials) 2016 - current
+---------------------------------------------------------------------------------------
 * ITECH1005 Business Information Systems
 * ITECH2101 Software Engineering: Processes and Methods
 * ITECH2002 Systems Modelling
