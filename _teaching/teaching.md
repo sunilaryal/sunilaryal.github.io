@@ -1,8 +1,6 @@
 ---
 title: "Teaching"
 collection: teaching
-permalink: /teaching/teaching
-excerpt: 'Teaching'
 redirect_from: 
   - /teaching/
   - /teaching.html
