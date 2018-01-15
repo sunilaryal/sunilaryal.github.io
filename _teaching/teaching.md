@@ -1,8 +1,5 @@
----
 title: "Teaching"
-collection: teaching
-permalink: /teaching/teaching
----
+
 
 Federation University (coordination, moderation, lectures and tutorials) 2016-current
 -------------------------------------------------------------------------------------
