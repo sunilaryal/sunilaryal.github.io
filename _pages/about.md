@@ -9,3 +9,11 @@ redirect_from:
 ---
 
 I am a lecturer in IT at the School of Engineering and Information Technology, Faculty of Science and Technology, Federation University Australia. Prior to joining the Federation University in 2016, I worked as a sessional teaching staff in various institutions. I also worked in industry as a software developer and data analyst. I received my PhD degree from Monash University, Australia. My research is in the area of data mining, machine learning, artificial intelligence, health informatics, and information systems. I am particularly interested in applying IT to solve real-world problems in different domains. I am affiliated with the Centre for [Multimedia Computing, Communications, and Artificial Intelligence Research (MCCAIR)](https://federation.edu.au/faculties-and-schools/faculty-of-science-and-technology/research/computational-science-and-mathematics/centre-for-multimedia-computing-communications-and-applications-research-mccar "MCCAIR") and [Centre for Informatics and Applied Optimization (CIAO)](https://federation.edu.au/faculties-and-schools/faculty-of-science-and-technology/research/computational-science-and-mathematics/ciao "CIAO") at the Federation University.
+
+Recent updates
+--------------
+
+* Dec 2017: Completed PhD from Monash Univeristy
+* Nov 2017: Invited to pitch research project in the 2017 US-AUS Robotics & Autonomy Workshop in Adelaide
+* Nov 2017: A paper accepted at the 11th Australasian Conference on Health Informatics and Knowledge Management (HIKM 2018)
+* Mar 2017: A paper accepted for publication in Knowledge and Information Systems (KAIS)
