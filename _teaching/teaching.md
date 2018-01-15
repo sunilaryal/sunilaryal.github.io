@@ -1,3 +1,12 @@
+---
+permalink: /teaching/teaching
+title: "Teaching"
+excerpt: "Teaching"
+redirect_from: 
+  - /teaching/
+  - /teaching.html
+---
+
 Federation University (coordination, moderation, lectures and tutorials) 2016-current
 -------------------------------------------------------------------------------------
 * FIT1040 Fundamentals of Computer Programming
