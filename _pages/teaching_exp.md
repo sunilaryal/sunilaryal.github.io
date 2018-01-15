@@ -7,8 +7,6 @@ redirect_from:
   - /teaching
 ---
 
-{% include base_path %}
-
 Federation University (coordination, moderation, lectures and tutorials) 2016-current
 -------------------------------------------------------------------------------------
 * FIT1040 Fundamentals of Computer Programming
