@@ -16,4 +16,4 @@ Recent updates
 * Dec 2017: Completed PhD from Monash Univeristy
 * Nov 2017: Invited to pitch research project in the 2017 US-AUS Robotics & Autonomy Workshop in Adelaide
 * Nov 2017: A paper accepted at the 11th Australasian Conference on Health Informatics and Knowledge Management (HIKM 2018)
-* Mar 2017: A paper accepted for publication in Knowledge and Information Systems (KAIS)
+* Mar 2017: A paper accepted for publication in the journal of Knowledge and Information Systems (KAIS)
