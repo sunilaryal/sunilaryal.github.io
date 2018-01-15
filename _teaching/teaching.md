@@ -2,7 +2,6 @@
 permalink: /teaching/teaching
 collection: teaching
 title: "Teaching"
-excerpt: "Teaching"
 redirect_from: 
   - /teaching/
   - /teaching.html
