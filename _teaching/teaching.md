@@ -1,5 +1,11 @@
-Federation University (coordination, moderation, lectures and tutorials) 2016 - current
----------------------------------------------------------------------------------------
+---
+title: "Federation University Australia"
+collection: teaching
+type: "Coordination, moderation, lectures and tutorials"
+permalink: /teaching/fed-uni
+date: 2016 - current
+location: "Mt Helen campus"
+---
 * ITECH1005 Business Information Systems
 * ITECH2101 Software Engineering: Processes and Methods
 * ITECH2002 Systems Modelling
