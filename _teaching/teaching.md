@@ -1,6 +1,5 @@
 ---
 title: "Teaching"
-collection: teaching
 redirect_from: 
   - /teaching/
   - /teaching.html
