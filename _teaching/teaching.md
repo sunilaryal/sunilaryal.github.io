@@ -3,7 +3,7 @@ title: "Federation University Australia"
 collection: teaching
 type: "Coordination, moderation, lectures and tutorials"
 permalink: /teaching/fed-uni
-date: 2016 - current
+year: 2016-current
 location: "Mt Helen campus"
 ---
 * ITECH1005 Business Information Systems
