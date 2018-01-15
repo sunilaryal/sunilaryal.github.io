@@ -1,3 +1,10 @@
+---
+title: "Teaching"
+collection: teaching
+permalink: /teaching/teaching
+excerpt: ''
+---
+
 Federation University (coordination, moderation, lectures and tutorials) 2016 - current
 ---------------------------------------------------------------------------------------
 * ITECH1005 Business Information Systems
