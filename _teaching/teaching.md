@@ -11,8 +11,8 @@ redirect_from:
 
 Federation University Australia
 ===============================
-Coordination, Moderation, Lecturing and Tutoring
-------------------------------------------------
+## Coordination, Moderation, Lecturing and Tutoring
+
 * ITECH1005 Business Information Systems
 * ITECH2101 Software Engineering: Processes and Methods
 * ITECH2002 Systems Modelling
@@ -23,8 +23,8 @@ Coordination, Moderation, Lecturing and Tutoring
 
 Monash University
 =================
-Tutoring
---------
+## Tutoring
+
 FIT1040 Fundamentals of Computer Programming
 FIT2004 Algorithms and data structures
  
