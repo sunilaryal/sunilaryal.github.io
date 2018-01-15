@@ -1,11 +1,9 @@
 ---
-title: "Federation University Australia"
+title: "Teaching"
 collection: teaching
-type: "Coordination, moderation, lectures and tutorials"
-permalink: /teaching/fed-uni
-year: "2016-current"
-location: "Mt Helen campus"
+permalink: /teaching/teaching
 ---
+
 Federation University (coordination, moderation, lectures and tutorials) 2016-current
 -------------------------------------------------------------------------------------
 * FIT1040 Fundamentals of Computer Programming
