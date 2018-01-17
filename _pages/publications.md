@@ -41,3 +41,6 @@ Abstracts, posters, talks & miscellaneous
 * <b>S. Aryal</b> and K. M. Ting, 2014, MassBayes: A new generative classifier with multidimensional likelihood estimation, In the <i>Monash University Faculty of IT higher degrees by research conference</i> [<i>Poster</i>]
 * L. Schietgat, <b>S. Aryal</b>, Ramon J., 2010, Predicting protein function with the relative backbone position kernel, In <i>Proceedings of the 9th European Conference on Computational Biology (ECCB)</i> pp 39 [<i>Extended abstract and poster</i>]
 * <b>S. Aryal</b>, 2002, Prospects and Challenges of IT in Nepal, In the <i>Kathmandu Don Bosco College Newsletter</i> pp 3 [<i>Newspaper column</i>]
+
+### See my google scholar page [<span style="color:blue">*here*</span>](https://scholar.google.com.au/citations?user=Ivj3Mm0AAAAJ&hl=en)
+### See my DBLP page [<span style="color:blue">*here*</span>](http://dblp.uni-trier.de/pers/hd/a/Aryal:Sunil)
