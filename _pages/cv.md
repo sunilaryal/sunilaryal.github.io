@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+---------
 * Ph.D in Computer Science, Monash University, Australia 2017
 * Master of Information Technology (Research), Monash University, Australia, 2012
 * Master of Information Technology (Coursework), University of Southern Queensland, Australia, 2008
 * Bachelor in Information Technology, Purbanchal University, Nepal, 2005
 
 Positions Held
-======
+--------------
 * Lecturer (sessional), ATMC (Federation University), Melbourne, Australia, 2013-2016
 * Data Engineer (part-time), Gyde Inc., Melbourne, Australia, 2014-2015
 * Teaching Associate (sessional), Monash University, Clayton, Australia, 2013-2015
@@ -30,7 +30,7 @@ Positions Held
 * Computer Teacher (full-time), Kathmandu Don Bosco Higher Secondary School, Kathmandu, Nepal, 2002-2005
   
 Skills
-======
+------
 * Software Engineering: System analysis and design (SDLC and Agile), Unified Modelling Language (UML), Relational database design, Project management, Version control tools (CVS, SVN and Github), Issue tracking tools (JIRA and MQC)
 * Programming Languages: C, Java, C++, Python, PHP
 * Databases: Oracle, MySQL, PostgreSQL
