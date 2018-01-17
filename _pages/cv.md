@@ -37,4 +37,4 @@ Skills
 * Machine Learning and statistical tools: Matlab/Octave, ScikitLearn, WEKA and MOA, GNUPlot, R (limited exposure).
 * Operating Systems: Windows, Unix, Mac (limited exposure)
 
-### See my extended CV [<span style="color:blue">*here*</span>](My_CV.pdf "CV")
+### See my extended CV [<span style="color:blue">*here*</span>](https://github.com/sunilaryal/sunilaryal.github.io/blob/master/_pages/My_CV.pdf "CV")
