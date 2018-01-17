@@ -31,14 +31,6 @@ Positions Held
   
 Skills
 ======
-* Teaching courses related to 
-  * Programming
-  * Data structures and algorithms
-  * Database
-  * Data mining and Machine Learning
-  * Software Engineering
-  * Project Management
-  * Information systems
 * Software Engineering
   * System analysis and design (SDLC and Agile)
   * Unified Modelling Language
@@ -66,3 +58,5 @@ Skills
   * Windows
   * Unix
   * Mac (limited exposure)
+
+See my extended CV [here](My_CV.pdf "CV")
