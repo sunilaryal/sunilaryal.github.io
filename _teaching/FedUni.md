@@ -6,9 +6,6 @@ permalink: /teaching/FedUni
 venue: "Mount Helen Campus"
 date: 12016-
 ---
-* FIT1040 Fundamentals of Computer Programming
-* FIT2004 Algorithms and data structures
-
 * ITECH1005 Business Information Systems
 * ITECH2101 Software Engineering: Processes and Methods
 * ITECH2002 Systems Modelling
