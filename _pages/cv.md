@@ -37,4 +37,4 @@ Skills
 * Machine Learning and statistical tools: Matlab/Octave, ScikitLearn, WEKA and MOA, GNUPlot, R (limited exposure).
 * Operating Systems: Windows, Unix, Mac (limited exposure)
 
-###See my extended CV [here](My_CV.pdf "CV")
+### See my extended CV [here](My_CV.pdf "CV")
