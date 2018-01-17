@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Monash University University, Australia 2017
+* Ph.D in Computer Science, Monash University, Australia 2017
 * Master of Information Technology (Research), Monash University, Australia, 2012
 * Master of Information Technology (Coursework), University of Southern Queensland, Australia, 2008
 * Bachelor in Information Technology, Purbanchal University, Nepal, 2005
