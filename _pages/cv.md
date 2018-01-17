@@ -31,7 +31,7 @@ Positions Held
   
 Skills
 ======
-*Teaching courses related to 
+* Teaching courses related to 
   * Programming
   * Data structures and algorithms
   * Database
