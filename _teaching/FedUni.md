@@ -4,7 +4,7 @@ collection: teaching
 type: "Coordination, Moderation, Lectures and Tutorials"
 permalink: /teaching/FedUni
 venue: "Mount Helen Campus"
-date: 2016
+date: 2016-01-18
 ---
 * ITECH1005 Business Information Systems
 * ITECH2101 Software Engineering: Processes and Methods
