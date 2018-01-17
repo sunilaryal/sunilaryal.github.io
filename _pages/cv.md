@@ -16,7 +16,7 @@ Education
 * Master of Information Technology (Coursework), University of Southern Queensland, Australia, 2008
 * Bachelor in Information Technology, Purbanchal University, Nepal, 2005
 
-Positions Held
+Positions held
 --------------
 * Lecturer (sessional), ATMC (Federation University), Melbourne, Australia, 2013-2016
 * Data Engineer (part-time), Gyde Inc., Melbourne, Australia, 2014-2015

@@ -33,7 +33,7 @@ Books chapters
 * A. Neupane, J. Soar, K. Vaidya, <b>S. Aryal</b>, 2017, Development and evaluation of an anti-corruption framework to address the public procurement corruption, In R. Shakya (ed.) <i>Digital Governance and E-Government Principles Applied to Public Procurement</i>, IGI Global pp 56-74
 * A. Neupane, J. Soar, K. Vaidya, <b>S. Aryal</b>, 2014, The Potential For ICT Tools to Promote Public Participation in Fighting Corruption, In Christina M. Akrivopoulou and N. Garipidis (eds.) <i>Human Rights and the Impact of ICT in the Public Sphere: Participation, Democracy, and Political Autonomy</i>, IGI Global pp 175-191
 
-Abstracts, Posters, Talks & Miscellaneous
+Abstracts, posters, talks & miscellaneous
 -----------------------------------------
 * K. M. Ting and <b>S. Aryal</b>, 2017, The impact of sample size and dissimilarity on learning in dynamic and uncertain environments, In the <i>US-AUS Robotics \& Autonomy Workshop</i>, Adelaide, Australia [<i>Invited talk to pitch research idea</i>]
 * <b>S. Aryal</b>, K. M. Ting, G. Haffari and T. Washio, 2015, Beyond tf-idf and cosine distance in documents dissimilarity measure, In the <i>11th Conference of Asia Information Retrieval Societies (AIRS)</i>, Brisbane, Australia [<i>Poster</i>]
