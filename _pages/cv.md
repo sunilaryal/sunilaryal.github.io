@@ -11,49 +11,58 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ph.D in Computer Science, Monash University University, Australia 2017
+* Master of Information Technology (Research), Monash University, Australia, 2012
+* Master of Information Technology (Coursework), University of Southern Queensland, Australia, 2008
+* Bachelor in Information Technology, Purbanchal University, Nepal, 2005
 
-Work experience
+Positions Held
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Lecturer (sessional), ATMC (Federation University), Melbourne, Australia, 2013-2016
+* Data Engineer (part-time), Gyde Inc., Melbourne, Australia, 2014-2015
+* Teaching Associate (sessional), Monash University, Clayton, Australia, 2013-2015
+* Research Assistant (casual), Federation University, Churchill, Australia, 2014-2015
+* Software Developer (casual), Monash University, Clayton, Australia, 2013-2013
+* Research Assistant (casual), Monash University, Churchill, Australia, 2012-2013
+* Research Trainee (full-time), Katholieke University, Leuven, Belgium, 2009-2010
+* Software Developer (full-time), Ingenico Asia Pacific International, Warriewood, Australia, 2008-2009
+* IT Officer (Full-time) (full-time), Nepal Bank Limited, Damauli, Nepal, 2006-2006
+* Computer Teacher (full-time), Kathmandu Don Bosco Higher Secondary School, Kathmandu, Nepal, 2002-2005
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+*Teaching courses related to 
+  * Programming
+  * Data structures and algorithms
+  * Database
+  * Data mining and Machine Learning
+  * Software Engineering
+  * Project Management
+  * Information systems
+* Software Engineering
+  * System analysis and design (SDLC and Agile)
+  * Unified Modelling Language
+  * Relational database design
+  * Project management
+  * Version control tools (CVS, SVN and Github)
+  * Issue tracking tools (JIRA and MQC)
+* Programming Languages
+  * C
+  * Java
+  * C++
+  * Python
+  * PHP
+* Databases
+  * Oracle
+  * MySQL
+  * PostgreSQL
+* Machine Learning and statistical tools
+  * Matlab/Octave
+  * ScikitLearn
+  * WEKA and MOA
+  * GNUPlot
+  * R (limited exposure).
+* Operating Systems 
+  * Windows
+  * Unix
+  * Mac (limited exposure)
