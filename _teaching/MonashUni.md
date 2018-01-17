@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutorials"
 permalink: /teaching/MonashUni
 venue: "Clayton Campus"
-year: 2013-2015
+date: 2013-15
 ---
 * FIT1040 Fundamentals of Computer Programming
 * FIT2004 Algorithms and data structures
