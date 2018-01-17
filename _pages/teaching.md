@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Federation University (2016-current)
-======
+------------------------------------
 Development, Coordination, Moderation, Lecturing and Tutoring
 * ITECH1005 Business Information Systems
 * ITECH2101 Software Engineering: Processes and Methods
@@ -20,8 +20,9 @@ Development, Coordination, Moderation, Lecturing and Tutoring
 * ITECH3501 Principles of Software Engineering
 * ITECH7403 Masters Project I
 
+
 Monash University (2013-2015)
-======
+-----------------------------
 Tutoring
 * FIT1040 Fundamentals of Computer Programming
-* FIT2004 Algorithms and data structures
+* FIT2004 Algorithms and Data Structures
