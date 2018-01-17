@@ -31,32 +31,10 @@ Positions Held
   
 Skills
 ======
-* Software Engineering
-  * System analysis and design (SDLC and Agile)
-  * Unified Modelling Language
-  * Relational database design
-  * Project management
-  * Version control tools (CVS, SVN and Github)
-  * Issue tracking tools (JIRA and MQC)
-* Programming Languages
-  * C
-  * Java
-  * C++
-  * Python
-  * PHP
-* Databases
-  * Oracle
-  * MySQL
-  * PostgreSQL
-* Machine Learning and statistical tools
-  * Matlab/Octave
-  * ScikitLearn
-  * WEKA and MOA
-  * GNUPlot
-  * R (limited exposure).
-* Operating Systems 
-  * Windows
-  * Unix
-  * Mac (limited exposure)
+* Software Engineering: System analysis and design (SDLC and Agile), Unified Modelling Language (UML), Relational database design, Project management, Version control tools (CVS, SVN and Github), Issue tracking tools (JIRA and MQC)
+* Programming Languages: C, Java, C++, Python, PHP
+* Databases: Oracle, MySQL, PostgreSQL
+* Machine Learning and statistical tools: Matlab/Octave, ScikitLearn, WEKA and MOA, GNUPlot, R (limited exposure).
+* Operating Systems: Windows, Unix, Mac (limited exposure)
 
-See my extended CV [here](My_CV.pdf "CV")
+###See my extended CV [here](My_CV.pdf "CV")
