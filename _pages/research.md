@@ -36,4 +36,4 @@ Potential research projects
 ---------------------------
 * <i>Simple probabilistic anomaly detection</i> [[<span style="color:blue">Related paper</span>](https://link.springer.com/chapter/10.1007/978-3-319-31863-9_6)]
 * <i>Application of data-dependent dissimilarity measures in different data mining tasks</i> [[<span style="color:blue">Related paper</span>](https://link.springer.com/chapter/10.1007/978-3-319-31863-9_6)]
-* <i>Effect of data size in learning</i> - with [<span style="color:blue">Prof. Kai Ming Ting</span>](https://federation.edu.au/faculties-and-schools/faculty-of-science-and-technology/staff-profiles/information-technology/kai-ming-ting)[[<span style="color:blue">Related paper</span>](https://link.springer.com/article/10.1007/s10994-016-5586-4)]
+* <i>Effect of data size in learning</i> - with [<span style="color:blue">Prof. Kai Ming Ting</span>](https://federation.edu.au/faculties-and-schools/faculty-of-science-and-technology/staff-profiles/information-technology/kai-ming-ting) [[<span style="color:blue">Related paper</span>](https://link.springer.com/article/10.1007/s10994-016-5586-4)]
