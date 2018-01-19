@@ -13,7 +13,7 @@ I am a lecturer in IT at the School of Engineering and Information Technology, F
 Recent updates
 --------------
 
-* Dec 2017: Completed PhD from Monash Univeristy
+* Dec 2017: Completed PhD from Monash University, Australia
 * Nov 2017: Invited to pitch research project in the 2017 US-AUS Robotics & Autonomy Workshop in Adelaide
 * Nov 2017: A paper accepted at the 11th Australasian Conference on Health Informatics and Knowledge Management (HIKM 2018)
 * Sep 2017: PhD thesis submitted for examination
