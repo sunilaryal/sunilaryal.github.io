@@ -35,7 +35,7 @@ Books chapters
 
 Abstracts, posters, talks & miscellaneous
 -----------------------------------------
-* K. M. Ting and <b>S. Aryal</b>, 2017, The impact of sample size and dissimilarity on learning in dynamic and uncertain environments, In the <i>US-AUS Robotics \& Autonomy Workshop</i>, Adelaide, Australia [<i>Invited talk to pitch research idea</i>]
+* K. M. Ting and <b>S. Aryal</b>, 2017, The impact of sample size and dissimilarity on learning in dynamic and uncertain environments, In the <i>US-AUS Robotics & Autonomy Workshop</i>, Adelaide, Australia [<i>Invited talk to pitch research idea</i>]
 * <b>S. Aryal</b>, K. M. Ting, G. Haffari and T. Washio, 2015, Beyond tf-idf and cosine distance in documents dissimilarity measure, In the <i>11th Conference of Asia Information Retrieval Societies (AIRS)</i>, Brisbane, Australia [<i>Poster</i>]
 * <b>S. Aryal</b>, K. M. Ting, G. Haffari and T. Washio, 2014, Mp-dissimilarity: A data dependent dissimilarity measure, In the <i>IEEE International Conference on Data Mining (ICDM)</i>, Shenzhen, China [<i>Talk</i>]
 * <b>S. Aryal</b> and K. M. Ting, 2014, MassBayes: A new generative classifier with multidimensional likelihood estimation, In the <i>Monash University Faculty of IT higher degrees by research conference</i> [<i>Poster</i>]
