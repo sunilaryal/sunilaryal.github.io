@@ -9,7 +9,7 @@ redirect_from:
 
 Office address
 --------------
-Room: 250, Building T<br />
+Room: 243, Building T<br />
 School of Engineering and Information Technology<br />
 Faculty of Science and Technology<br />
 Federation University Australia<br />
