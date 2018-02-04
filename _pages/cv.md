@@ -26,7 +26,7 @@ Positions held
 * Research Assistant (casual), Monash University, Churchill, Australia, 2012-2013
 * Research Trainee (full-time), Katholieke University, Leuven, Belgium, 2009-2010
 * Software Developer (full-time), Ingenico Asia Pacific International, Warriewood, Australia, 2008-2009
-* IT Officer (Full-time) (full-time), Nepal Bank Limited, Damauli, Nepal, 2006-2006
+* IT Officer (full-time), Nepal Bank Limited, Damauli, Nepal, 2006-2006
 * Computer Teacher (full-time), Kathmandu Don Bosco Higher Secondary School, Kathmandu, Nepal, 2002-2005
   
 Skills
