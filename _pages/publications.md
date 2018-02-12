@@ -16,7 +16,7 @@ Journal articles
 
 Conference & workshop papers
 ----------------------------
-* <b>S. Aryal</b>, 2018, Anomaly detection technique robust to units and scales of measurement, To appear In <i>Proceedings of the 22nd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)</i> (accepted on 11 Fed 2018)
+* <b>S. Aryal</b>, 2018, Anomaly detection technique robust to units and scales of measurement, To appear In <i>Proceedings of the 22nd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)</i> (accepted on 11 Feb 2018)
 * M. Santhanagopalan, M. Chetty, C. Foale, <b>S. Aryal</b> and B. Klein, 2018, Modelling neurocognitive reaction time with Gamma distribution, To appear In <i>Proceedings of the 11th Australasian Conference on Health Informatics and Knowledge Management (HIKM)</i> (accepted on 12 Nov 2017)
 * <b>S. Aryal</b>, K. M. Ting, and G. Haffari, 2016, Revisiting Attribute Independence Assumption in Probabilistic Unsupervised Anomaly Detection, In <i>Proceedings of the 11th Pacific Asia Workshop on Intelligence and Security Informatics (PAISI)</i> pp 73-86
 * <b>S. Aryal</b>, K. M. Ting, G. Haffari and T. Washio, 2015, Beyond tf-idf and cosine distance in documents dissimilarity measure, In <i>Proceedings of the 11th Conference of Asia Information Retrieval Societies (AIRS)</i> pp 400-406
