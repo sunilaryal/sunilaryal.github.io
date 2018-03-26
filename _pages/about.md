@@ -18,4 +18,5 @@ Recent updates
 * Nov 2017: Invited to pitch research project in the 2017 US-AUS Robotics & Autonomy Workshop in Adelaide, Australia
 * Nov 2017: A paper accepted at the 11th Australasian Conference on Health Informatics and Knowledge Management (HIKM 2018)
 * Sep 2017: PhD thesis submitted for examination
+* Aug 2017: Attended International Joint Conference on Artificial Intelligence (IJCAI 2017)
 * Mar 2017: A paper accepted for publication in the journal of Knowledge and Information Systems (KAIS)
