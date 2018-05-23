@@ -20,7 +20,7 @@ Positions held
 --------------
 * Lecturer (sessional), ATMC (Federation University), Melbourne, Australia, 2013-2016
 * Data Engineer (part-time), Gyde Inc., Melbourne, Australia, 2014-2015
-* Teaching Associate (sessional), Monash University, Clayton, Australia, 2013-2015
+* Teaching Associate (sessional), Monash University, Clayton, Australia, 2014-2015
 * Research Assistant (casual), Federation University, Churchill, Australia, 2014-2015
 * Software Developer (casual), Monash University, Clayton, Australia, 2013-2013
 * Research Assistant (casual), Monash University, Churchill, Australia, 2012-2013
