@@ -20,6 +20,14 @@ Development, Coordination, Moderation, Lecturing and Tutoring
 * ITECH3501 Principles of Software Engineering
 * ITECH7403 Masters Project I
 
+Australian Technology and Management College (ATMC) Melbourne (2013-2016)
+----------------------------------------------------------------------------
+Lecturing and Tutoring
+* ITECH2101 Software Engineering: Processes and Methods
+* ITECH3501 Principles of Software Engineering
+* ITECH 3212 E-commerce II
+* ITECH 3602 Project
+
 
 Monash University (2014-2015)
 -----------------------------
