@@ -16,8 +16,9 @@ Journal articles
 
 Conference & workshop papers
 ----------------------------
-* <b>S. Aryal</b>, 2018, Anomaly detection technique robust to units and scales of measurement, To appear In <i>Proceedings of the 22nd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)</i> (accepted on 11 Feb 2018)
-* M. Santhanagopalan, M. Chetty, C. Foale, <b>S. Aryal</b> and B. Klein, 2018, Modelling neurocognitive reaction time with Gamma distribution, To appear In <i>Proceedings of the 11th Australasian Conference on Health Informatics and Knowledge Management (HIKM)</i> (accepted on 12 Nov 2017)
+* M. Santhanagopalan, M. Chetty, C. Foale, <b>S. Aryal</b> and B. Klein, 2018, Relevance of frequency of heart-rate peaks as indicator of biological stress level, To appear In <i>Proceedings of The 25th International Conference on Neural Information Processing (ICONIP 2018)</i>
+* <b>S. Aryal</b>, 2018, Anomaly detection technique robust to units and scales of measurement, In <i>Proceedings of the 22nd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)</i> pp 589-601
+* M. Santhanagopalan, M. Chetty, C. Foale, <b>S. Aryal</b> and B. Klein, 2018, Modelling neurocognitive reaction time with Gamma distribution, In <i>Proceedings of the 2018 Australasian Computer Science Week (ACSW) Multiconference</i> pp 28:1--28:10 
 * <b>S. Aryal</b>, K. M. Ting, and G. Haffari, 2016, Revisiting Attribute Independence Assumption in Probabilistic Unsupervised Anomaly Detection, In <i>Proceedings of the 11th Pacific Asia Workshop on Intelligence and Security Informatics (PAISI)</i> pp 73-86
 * <b>S. Aryal</b>, K. M. Ting, G. Haffari and T. Washio, 2015, Beyond tf-idf and cosine distance in documents dissimilarity measure, In <i>Proceedings of the 11th Conference of Asia Information Retrieval Societies (AIRS)</i> pp 400-406
 * <b>S. Aryal</b>, K. M. Ting, G. Haffari and T. Washio, 2014, Mp-dissimilarity: A data dependent dissimilarity measure, In <i>Proceedings of the IEEE International Conference on Data Mining (ICDM)</i> pp 707-712
