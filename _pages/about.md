@@ -12,6 +12,7 @@ I am a lecturer in IT and Early Career Researcher (ECR) at the School of Enginee
 
 Recent updates
 --------------
+* Aug 2018: Our tutorial on Anomaly detection accepted at the IEEE International Conference on Data Mining (ICDM 2018)
 * Aug 2018: A paper accepted at the 25th International Conference on Neural Information Processing (ICONIP 2018) 
 * Jun 2018: Attended and presented a paper at the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2018) 
 * Feb 2018: A paper accepted at the 22nd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2018)
