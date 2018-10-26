@@ -12,6 +12,7 @@ I am a lecturer in IT and Early Career Researcher (ECR) at the School of Enginee
 
 10 Most recent updates
 ----------------------
+* Oct 2018:  A paper accepted at the Image and Vision Computing New Zealand 2018 conference (IVCNZ 2018)
 * Aug 2018: Our tutorial on Anomaly Detection accepted at the IEEE International Conference on Data Mining (ICDM 2018)
 * Aug 2018: A paper accepted at the 25th International Conference on Neural Information Processing (ICONIP 2018) 
 * Jun 2018: Attended and presented a paper at the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2018) 
