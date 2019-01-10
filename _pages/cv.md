@@ -18,6 +18,7 @@ Education
 
 Positions held
 --------------
+* Lecturer (full-time), Federation Univeristy, Mount Helen, Australia, 2019-2019
 * Lecturer (sessional), ATMC (Federation University), Melbourne, Australia, 2013-2016
 * Data Engineer (part-time), Gyde Inc., Melbourne, Australia, 2014-2015
 * Teaching Associate (sessional), Monash University, Clayton, Australia, 2014-2015
