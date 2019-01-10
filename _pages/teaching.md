@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Federation University (2016-current)
+Federation University (2016-2019)
 ------------------------------------
 Development, Coordination, Moderation, Lecturing and Tutoring
 * ITECH1005 Business Information Systems
