@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a lecturer in IT and Early Career Researcher (ECR) at the School of Engineering and Information Technology, Faculty of Science and Technology, Federation University Australia. Prior to joining Federation University in 2016, I worked as a sessional teaching staff in various institutions. I also worked in industry as a software developer and data analyst. I received my PhD from Monash University, Australia. My research are in the areas of data mining, machine learning, artificial intelligence, health informatics, and information systems. I am particularly interested in applying IT to solve real-world problems in different domains. I am affiliated with the [Centre for Multimedia Computing, Communications, and Artificial Intelligence Research (MCCAIR)](https://federation.edu.au/faculties-and-schools/faculty-of-science-and-technology/research/computational-science-and-mathematics/centre-for-multimedia-computing-communications-and-applications-research-mccar "MCCAIR"), [Centre for Informatics and Applied Optimization (CIAO)](https://federation.edu.au/faculties-and-schools/faculty-of-science-and-technology/research/computational-science-and-mathematics/ciao "CIAO") and [Internet Commerce Security Laboratory (ICSL)](https://federation.edu.au/icsl "ICSL") at the Federation University.
+I am a lecturer in IT at the School of Information Technology, Faculty of Faculty of Science, Engineering and Built Environment, Deakin University Australia. Prior to joining Deakin University in 2019, I worked as a lecturer at Federation University and sessional teaching staff in various institutions. I also worked in industry as a software developer and data analyst. I received my PhD from Monash University, Australia. My research are in the areas of data mining, machine learning, artificial intelligence, health informatics, and information systems. I am particularly interested in applying IT to solve real-world problems in different domains.
 
 Recent updates
 ----------------------
+* Jan 2019: Started at Deakin University as a lecturer in IT
 * Nov 2018: Moving to Deakin University in Jan 2019
 * Oct 2018: A paper accepted at the Image and Vision Computing New Zealand 2018 conference (IVCNZ 2018)
 * Aug 2018: Our tutorial on Anomaly Detection accepted at the IEEE International Conference on Data Mining (ICDM 2018)
