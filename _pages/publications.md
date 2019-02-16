@@ -16,7 +16,9 @@ Journal articles
 
 Conference & workshop papers
 ----------------------------
-* M. Santhanagopalan, M. Chetty, C. Foale, <b>S. Aryal</b> and B. Klein, 2018, Relevance of frequency of heart-rate peaks as indicator of biological stress level, To appear In <i>Proceedings of The 25th International Conference on Neural Information Processing (ICONIP 2018)</i>
+*  H. Shojanazeri, D. Zhang, S. Wei Teng, <b>S. Aryal</b> and G. Lu, 2018, A Novel Perceptual Dissimilarity Measure for Image Retrieval, In <i>Proceedings of <i>The International Conference on Image and Vision Computing New Zealand (IVCNZ)</i> pp. 1-6.
+*  H. Shojanazeri, <b>S. Aryal<\b>, S. W. Teng, D. Zhang and G. Lu, 2018, Image Clustering Using a Similarity Measure Incorporating Human Perception, In <i>Proceedings of <i>The International Conference on Image and Vision Computing New Zealand (IVCNZ)</i> pp. 1-6
+* M. Santhanagopalan, M. Chetty, C. Foale, <b>S. Aryal</b> and B. Klein, 2018, Relevance of frequency of heart-rate peaks as indicator of biological stress level, In <i>Proceedings of The 25th International Conference on Neural Information Processing (ICONIP 2018)</i> pp 598-609
 * <b>S. Aryal</b>, 2018, Anomaly detection technique robust to units and scales of measurement, In <i>Proceedings of the 22nd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)</i> pp 589-601
 * M. Santhanagopalan, M. Chetty, C. Foale, <b>S. Aryal</b> and B. Klein, 2018, Modelling neurocognitive reaction time with Gamma distribution, In <i>Proceedings of the 2018 Australasian Computer Science Week (ACSW) Multiconference</i> pp 28:1--28:10 
 * <b>S. Aryal</b>, K. M. Ting, and G. Haffari, 2016, Revisiting Attribute Independence Assumption in Probabilistic Unsupervised Anomaly Detection, In <i>Proceedings of the 11th Pacific Asia Workshop on Intelligence and Security Informatics (PAISI)</i> pp 73-86
