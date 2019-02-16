@@ -24,6 +24,6 @@ Service to research community
 Committees served
 -----------------
 * Treasurer - IEEE Computer Intelligence Society Victoria Chapter (2018-)
-* ECR Representative - Federation University, School of Science, Engineering and IT Research Committee(2018-)
-
-
+* Member - Course Leadership Team, Master of IT, Deakin University, School of IT (2019-)
+* Member - Marketing and Student Experience Committee, Deakin University, School of IT (2019-) 
+* ECR Representative - Federation University, School of Science, Engineering and IT Research Committee(2018-2019)
