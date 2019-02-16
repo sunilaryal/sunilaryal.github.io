@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Deakin University (2019-)
+-------------------------
+Campus Coordination, Lecturing and Tutoring
+* SIT223 Professional Practice in Information Technology
+* SIT306 IT Placement
+
 Federation University (2016-2019)
 ------------------------------------
 Development, Coordination, Moderation, Lecturing and Tutoring
@@ -27,7 +33,6 @@ Lecturing and Tutoring
 * ITECH3501 Principles of Software Engineering
 * ITECH 3212 E-commerce II
 * ITECH 3602 Project
-
 
 Monash University (2014-2015)
 -----------------------------
