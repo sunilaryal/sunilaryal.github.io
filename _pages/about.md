@@ -10,7 +10,7 @@ redirect_from:
 
 I am a lecturer in IT at the School of Information Technology, Faculty of Faculty of Science, Engineering and Built Environment, Deakin University Australia. Prior to joining Deakin University in 2019, I worked as a lecturer at Federation University and sessional teaching staff in various institutions. I also worked in industry as a software developer and data analyst. I received my PhD from Monash University, Australia. My research are in the areas of data mining, machine learning, artificial intelligence, health informatics, and information systems. I am particularly interested in applying IT to solve real-world problems in different domains.
 
-<b>PhD scholarships available to very strong domestic (Australian citizen or permanent resident) students to research in any area of AI, machine learning and data mining. If you are insterested, please send me your CV.</b>
+<b>***PhD scholarships available to very strong domestic (Australian citizen or permanent resident) students to research in any area of AI, machine learning and data mining. If you are insterested, please send me your CV.***</b>
 
 Recent updates
 ----------------------
