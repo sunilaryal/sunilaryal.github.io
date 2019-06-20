@@ -14,6 +14,7 @@ I am a lecturer in IT at the School of Information Technology, Faculty of Facult
 
 Recent updates
 ----------------------
+* June 2019: A paper accepted by IEEE Access.
 * Jan 2019: Started at Deakin University as a lecturer in IT
 * Nov 2018: Moving to Deakin University in Jan 2019
 * Oct 2018: Two papers accepted at the Image and Vision Computing New Zealand 2018 conference (IVCNZ 2018)
