@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a lecturer in IT at the School of Information Technology, Faculty of Faculty of Science, Engineering and Built Environment, Deakin University Australia. Prior to joining Deakin University in 2019, I worked as a lecturer at Federation University and sessional teaching staff in various institutions. I also worked in industry as a software developer and data analyst. I received my PhD from Monash University, Australia. My research are in the areas of data mining, machine learning, artificial intelligence, health informatics, and information systems. I am particularly interested in applying IT to solve real-world problems in different domains.
+I am a lecturer in IT at the School of Information Technology, Faculty of Faculty of Science, Engineering and Built Environment, Deakin University Australia. Prior to joining Deakin University in 2019, I worked as a lecturer at Federation University and sessional teaching staff at various institutions. I also worked in industry as a software developer and data analyst. I received my PhD from Monash University, Australia. My research are in the areas of data mining, machine learning, artificial intelligence, health informatics, and information systems. I am particularly interested in applying IT to solve real-world problems in different domains, particularly in healthcare, cyber security and IoT.
 
 <b>PhD scholarships available to very strong domestic (Australian citizen or permanent resident) students to research in any area of AI, machine learning and data mining. If you are insterested, please send me your CV.</b>
 
 Recent updates
 ----------------------
-* Jun 2019: A paper accepted by IEEE Access.
+* Jun 2019: A paper accepted for publication in IEEE Access.
 * Jan 2019: Started at Deakin University as a lecturer in IT
 * Nov 2018: Moving to Deakin University in Jan 2019
 * Oct 2018: Two papers accepted at the Image and Vision Computing New Zealand 2018 conference (IVCNZ 2018)
