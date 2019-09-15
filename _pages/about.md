@@ -14,7 +14,8 @@ I am a lecturer in IT at the School of Information Technology, Faculty of Facult
 
 Recent updates
 ----------------------
-* Two papers accepted at the 26th International Conference on Neural Information Processing (ICONIP 2019), Congratulations to PhD Student Chiranjibi Sitaula and Master student Arbind Agrahari Baniya
+* Sept 2019: Two papers accepted at the 26th International Conference on Neural Information Processing (ICONIP 2019), Congratulations to PhD Student Chiranjibi Sitaula and Master student Arbind Agrahari Baniya
+* Sept 2019: A paper accepted to the 9th Pacific-Rim Symposium on Image and Video Technology (PSIVT 2019), Congratulations to PhD student Chiranjibi Sitaula
 * Jun 2019: A paper accepted for publication in IEEE Access, Congratulations to PhD Student Chiranjibi Sitaula
 * Jan 2019: Started at Deakin University as a lecturer in IT
 * Nov 2018: Moving to Deakin University in Jan 2019
