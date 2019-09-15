@@ -14,17 +14,18 @@ I am a lecturer in IT at the School of Information Technology, Faculty of Facult
 
 Recent updates
 ----------------------
-* Jun 2019: A paper accepted for publication in IEEE Access.
+* Two papers accepted at the 26th International Conference on Neural Information Processing (ICONIP 2019), Congratulations to PhD Student Chiranjibi Sitaula and Master student Arbind Agrahari Baniya
+* Jun 2019: A paper accepted for publication in IEEE Access, Congratulations to PhD Student Chiranjibi Sitaula
 * Jan 2019: Started at Deakin University as a lecturer in IT
 * Nov 2018: Moving to Deakin University in Jan 2019
-* Oct 2018: Two papers accepted at the Image and Vision Computing New Zealand 2018 conference (IVCNZ 2018)
-* Aug 2018: Our tutorial on Anomaly Detection accepted at the IEEE International Conference on Data Mining (ICDM 2018)
-* Aug 2018: A paper accepted at the 25th International Conference on Neural Information Processing (ICONIP 2018) 
+* Oct 2018: Two papers accepted at the Image and Vision Computing New Zealand 2018 conference (IVCNZ 2018), Congratulations to Hamid Shojanazeri 
+* Aug 2018: Our (with Prof Kai Ming Ting and Prof Takashi Washio) tutorial on Anomaly Detection accepted at the IEEE International Conference on Data Mining (ICDM 2018)
+* Aug 2018: A paper accepted at the 25th International Conference on Neural Information Processing (ICONIP 2018), Congratulations to Meena Santhanagopalan 
 * Jun 2018: Attended and presented a paper at the Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2018) 
 * Feb 2018: A paper accepted at the 22nd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2018)
 * Dec 2017: Completed PhD from Monash University, Australia
 * Nov 2017: Invited to pitch research project in the 2017 US-AUS Robotics & Autonomy Workshop in Adelaide, Australia
-* Nov 2017: A paper accepted at the 11th Australasian Conference on Health Informatics and Knowledge Management (HIKM 2018)
+* Nov 2017: A paper accepted at the 11th Australasian Conference on Health Informatics and Knowledge Management (HIKM 2018), Congratulations to Meena Santhanagopalan
 * Sep 2017: PhD thesis submitted for examination
 * Aug 2017: Attended International Joint Conference on Artificial Intelligence (IJCAI 2017)
 * Mar 2017: A paper accepted for publication in the journal of Knowledge and Information Systems (KAIS)
