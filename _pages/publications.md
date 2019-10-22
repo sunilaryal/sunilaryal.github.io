@@ -9,6 +9,7 @@ redirect_from:
 
 Journal articles
 ----------------
+* 	C. Sitaula, Y. Xiang, Y. Zhang, X. Lu, <b>S. Aryal</b>, 2019, Indoor Image Representation by High-Level Semantic Features. <i>IEEE Access</i> 7 pp 84967-84979
 * <b>S. Aryal</b>, K. M. Ting, T. Washio and G. Haffari, 2017, Data dependent dissimilarity measure: An effective alternative to geometric distance measures, <i>Knowledge and Information Systems</i> 53(2) pp 479–506
 * K. M. Ting, T. Washio, J. R. Wells and <b>S. Aryal</b>, 2017, Defying the gravity of learning curve: a characteristic of nearest neighbour anomaly detectors, <i>Machine Learning</i> 106(1) pp 55–91
 * <b>S. Aryal</b> and K. M. Ting, 2016, A generic ensemble approach to estimate multi-dimensional likelihood in Bayesian classifier learning, <i>Computational Intelligence</i> 32(3) pp 458-479
@@ -39,6 +40,7 @@ Books chapters
 
 Abstracts, posters, talks & miscellaneous
 -----------------------------------------
+* <b>S. Aryal</b>, 2019, Are you aware that data can be misleading?, <i> PACIFIC 2019 Pitchfest, Sydney, Austalia [<i> Selected to pitch my current resaerch idea</i>]
 * K. M. Ting and <b>S. Aryal</b> and T. Washio 2018, [<span style="color:blue">*Which Outlier Detector should I use?*</span>](https://federation.edu.au/schools/school-of-science-engineering-and-information-technology/research/computational-science-and-mathematics/centre-for-multimedia-computing-communications-and-applications-research-mccar/docs/ieee-icdm-2018-tutorial), In the IEEE ICDM 2018, Singapore [<i>One-day long tutorial</i>]
 * K. M. Ting and <b>S. Aryal</b>, 2017, The impact of sample size and dissimilarity on learning in dynamic and uncertain environments, In the <i>US-AUS Robotics & Autonomy Workshop</i>, Adelaide, Australia [<i>Invited talk to pitch research idea</i>]
 * <b>S. Aryal</b>, K. M. Ting, G. Haffari and T. Washio, 2015, Beyond tf-idf and cosine distance in documents dissimilarity measure, In the <i>11th Conference of Asia Information Retrieval Societies (AIRS)</i>, Brisbane, Australia [<i>Poster</i>]
