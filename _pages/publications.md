@@ -40,7 +40,7 @@ Books chapters
 
 Abstracts, posters, talks & miscellaneous
 -----------------------------------------
-* <b>S. Aryal</b>, 2019, Are you aware that data can be misleading?, <i> PACIFIC 2019 Pitchfest, Sydney, Austalia [<i> Selected to pitch my current resaerch idea</i>]
+* <b>S. Aryal</b>, 2019, Are you aware that data can be misleading?, <i> PACIFIC 2019 Pitchfest, Sydney, Austalia [<i> Selected to pitch resaerch idea</i>]
 * K. M. Ting and <b>S. Aryal</b> and T. Washio 2018, [<span style="color:blue">*Which Outlier Detector should I use?*</span>](https://federation.edu.au/schools/school-of-science-engineering-and-information-technology/research/computational-science-and-mathematics/centre-for-multimedia-computing-communications-and-applications-research-mccar/docs/ieee-icdm-2018-tutorial), In the IEEE ICDM 2018, Singapore [<i>One-day long tutorial</i>]
 * K. M. Ting and <b>S. Aryal</b>, 2017, The impact of sample size and dissimilarity on learning in dynamic and uncertain environments, In the <i>US-AUS Robotics & Autonomy Workshop</i>, Adelaide, Australia [<i>Invited talk to pitch research idea</i>]
 * <b>S. Aryal</b>, K. M. Ting, G. Haffari and T. Washio, 2015, Beyond tf-idf and cosine distance in documents dissimilarity measure, In the <i>11th Conference of Asia Information Retrieval Societies (AIRS)</i>, Brisbane, Australia [<i>Poster</i>]
