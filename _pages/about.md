@@ -14,8 +14,8 @@ I am a lecturer in IT at the School of Information Technology, Faculty of Facult
 
 Recent updates
 ----------------------
-* Oct 2019: A paper accepted for publication in the Data Mining and Knowledge Discovery journal
 * Dec 2019: Attended Modelling Complex Warfare Symposium organised by DST in Canberra
+* Oct 2019: A paper accepted for publication in the Data Mining and Knowledge Discovery journal
 * Sept 2019: Selected to pitch my research in the PACIFIC 2019 Pitchfest, Sydney, Australia  
 * Sept 2019: Two papers accepted at the 26th International Conference on Neural Information Processing (ICONIP 2019), Congratulations to PhD Student Chiranjibi Sitaula and Master student Arbind Agrahari Baniya
 * Sept 2019: A paper accepted to the 9th Pacific-Rim Symposium on Image and Video Technology (PSIVT 2019), Congratulations to PhD student Chiranjibi Sitaula
