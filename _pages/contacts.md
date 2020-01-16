@@ -13,7 +13,7 @@ Room: 2.20, Building T<br />
 School of Information Technology<br />
 Faculty of Science, Engineering and Built Environment<br />
 Deakin University <br />
-221 Burwood Highway, Burwood VIC 3125<br />
+75 Pigdons Rd, Waurn Ponds VIC 3216<br />
 
 
 Phone
