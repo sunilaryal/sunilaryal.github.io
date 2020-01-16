@@ -9,7 +9,7 @@ redirect_from:
 
 Office address
 --------------
-Room: 2.20, Building T<br />
+Room: 3.250, Building KA<br />
 School of Information Technology<br />
 Faculty of Science, Engineering and Built Environment<br />
 Deakin University <br />
