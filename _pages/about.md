@@ -20,7 +20,7 @@ Recent updates
 * Sept 2019: Two papers accepted at the 26th International Conference on Neural Information Processing (ICONIP 2019), Congratulations to PhD Student Chiranjibi Sitaula and Master student Arbind Agrahari Baniya
 * Sept 2019: A paper accepted to the 9th Pacific-Rim Symposium on Image and Video Technology (PSIVT 2019), Congratulations to PhD student Chiranjibi Sitaula
 * Jun 2019: A paper accepted for publication in IEEE Access, Congratulations to PhD Student Chiranjibi Sitaula
-* Apr 2019: Our $1.28 million grant proposal led by Mental health organisation Prevention United, Federation University Australia and Ballarat Health Services is approved funding by WorkSafe, Work Well Improvement Fund (Round 2) 
+* Apr 2019: Our $1.28 million grant proposal led by Mental health organisation Prevention United, Federation University Australia and Ballarat Health Services is approved for funding by WorkSafe, Work Well Improvement Fund (Round 2) 
 * Jan 2019: Started at Deakin University as a lecturer in IT
 * Nov 2018: Moving to Deakin University in Jan 2019
 * Oct 2018: Two papers accepted at the Image and Vision Computing New Zealand 2018 conference (IVCNZ 2018), Congratulations to Hamid Shojanazeri 
