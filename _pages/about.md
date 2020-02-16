@@ -14,6 +14,7 @@ I am a lecturer in IT at the School of Information Technology, Faculty of Facult
 
 Recent updates
 ----------------------
+* Jan 2020: A paper accepted for publication in the Knowledge and Information Systems journal 
 * Dec 2019: Attended Modelling Complex Warfare Symposium organised by DST in Canberra
 * Oct 2019: A paper accepted for publication in the Data Mining and Knowledge Discovery journal
 * Sept 2019: Selected to pitch my research in the PACIFIC 2019 Pitchfest, Sydney, Australia  
