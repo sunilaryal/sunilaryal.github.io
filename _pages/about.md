@@ -14,6 +14,7 @@ I am a lecturer in IT at the School of Information Technology, Faculty of Facult
 
 Recent updates
 ----------------------
+* Mar 2020: Received a $5000 research grant from the Deakin University SEBE Faculty ECR support grants scheme. 
 * Jan 2020: A paper accepted for publication in the Knowledge and Information Systems journal 
 * Dec 2019: Attended Modelling Complex Warfare Symposium organised by DST in Canberra
 * Oct 2019: A paper accepted for publication in the Data Mining and Knowledge Discovery journal
