@@ -31,8 +31,8 @@ Current projects
 ----------------
 * <i>Simple probabilistic anomaly detection</i> - with Niraj Lama (Deakin University) and Arbind Agrahari Baniya (Deakin University)
 * <i>Data Mining Methods robust to units/scales of data measurement</i> - with A/Prof KC Santosh (University of South Dakota) and A/Prof Richard Dazeley (Deakin University)
-* <i>Outlying Aspect Mining</i> - with Durgesh Samariya (Federation University)
-* <i>Image Processing and Deep Learning</i> - with Chiranjibi Situala (Deakin University)
+* <i>Outlying Aspect Mining</i> - with Durgesh Samariya (Federation University) and Prof Kai Ming Ting (Nanjing University)
+* <i>Image Processing and Deep Learning</i> - with Chiranjibi Situala (Deakin University), Prof Yong Xiang (Deakin University) and Dr Xuequan Lu (Deakin University)
 * <i>Explainable AI</i> - with A/Prof Richard Dazeley (Deakin Univeristy) and A/Prof Peter Vamplew (Federation University)
 
 Potential research projects
