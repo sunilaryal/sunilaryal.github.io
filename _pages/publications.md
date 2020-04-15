@@ -9,6 +9,8 @@ redirect_from:
 
 Journal articles
 ----------------
+* J. R. Wells, <b>S. Aryal</b> and K. M. Ting, 2020, Simple supervised dissimilarity measure: Bolstering iForest-induced similarity with class information without learning, <i>Knowledge and Information Systems</i>, DOI: https://doi.org/10.1007/s10115-020-01454-3
+* <b>S. Aryal</b>, K. M. Ting, T. Washio and G. Haffari, 2020, A comparative study of data-dependent approaches without learning in measuring similarities of data objects, <i>Data Mining and Knowledge Discovery</i> 34(1) pp 124-162
 * 	C. Sitaula, Y. Xiang, Y. Zhang, X. Lu, <b>S. Aryal</b>, 2019, Indoor Image Representation by High-Level Semantic Features. <i>IEEE Access</i> 7 pp 84967-84979
 * <b>S. Aryal</b>, K. M. Ting, T. Washio and G. Haffari, 2017, Data dependent dissimilarity measure: An effective alternative to geometric distance measures, <i>Knowledge and Information Systems</i> 53(2) pp 479–506
 * K. M. Ting, T. Washio, J. R. Wells and <b>S. Aryal</b>, 2017, Defying the gravity of learning curve: a characteristic of nearest neighbour anomaly detectors, <i>Machine Learning</i> 106(1) pp 55–91
@@ -17,6 +19,10 @@ Journal articles
 
 Conference & workshop papers
 ----------------------------
+* C. Sitaula, Y. Xiang, A. Basnet, <b>S. Aryal</b> and X. Lu, 2020, HDF: Hybrid Deep Features for Scene Image Representation, Accepted to be published In <i>Proceedings of the International Joint Conference on Neural Networks (IJCNN 2020)</i>
+*  C. Sitaula, Y. Xiang, A. Basnet, <b>S. Aryal</b> and X. Lu, 2019, Tag-Based Semantic Features for Scene Image Classification, In <i>Proceedings of the International Conference on Neural Information Processing (ICONIP)</i> pp. 90-102.
+* A. A. Baniya, <b>S. Aryal</b> and K. C. Santosh, 2019, A novel data pre-processing technique robust to units and scales of measurement, In <i>Proceedings of the International Conference on Neural Information Processing (ICONIP)</i> as a special issue of the Australian Journal of Intelligent Information Processing Systems 16(3)  pp. 1-8. 
+*  C. Sitaula, Y. Xiang, <b>S. Aryal</b> and X. Lu, 2019, Unsupervised Deep Features for Privacy Image Classification, In <i>Proceedings of the Pacific-Rim Symposium on Image and Video Technology (PSIVT)</i> pp. 404-415.
 *  H. Shojanazeri, D. Zhang, S. Wei Teng, <b>S. Aryal</b> and G. Lu, 2018, A Novel Perceptual Dissimilarity Measure for Image Retrieval, In <i>Proceedings of the International Conference on Image and Vision Computing New Zealand (IVCNZ)</i> pp. 1-6.
 *  H. Shojanazeri, <b>S. Aryal</b>, S. W. Teng, D. Zhang and G. Lu, 2018, Image Clustering Using a Similarity Measure Incorporating Human Perception, In <i>Proceedings of the International Conference on Image and Vision Computing New Zealand (IVCNZ)</i> pp. 1-6
 * M. Santhanagopalan, M. Chetty, C. Foale, <b>S. Aryal</b> and B. Klein, 2018, Relevance of frequency of heart-rate peaks as indicator of biological stress level, In <i>Proceedings of the 25th International Conference on Neural Information Processing (ICONIP 2018)</i> pp 598-609
