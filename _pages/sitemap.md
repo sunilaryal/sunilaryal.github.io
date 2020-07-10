@@ -10,7 +10,7 @@ author_profile: true
 * Home
 * Research
 * Publications
-* Grants/Awards
+* Grants
 * Teaching
 * CV
   * Extended CV PDF
