@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ---------
+* Graduate Certificate in Higher Education Learning and Teaching, Deakin University, Australia, 2020
 * PhD in Computer Science, Monash University, Australia, 2017
 * Master of Information Technology (Research), Monash University, Australia, 2012
 * Master of Information Technology (Coursework), University of Southern Queensland, Australia, 2008
