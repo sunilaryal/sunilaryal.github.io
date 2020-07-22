@@ -19,7 +19,7 @@ Journal articles
 
 Conference & workshop papers
 ----------------------------
-* D. Samariya, <b>S. Aryal</b>, K. M. Ting and J. Ma, 2020, A new effective and efficient measure for outlying aspect mining, Accepted to be published In <i>Proceedings of 21st International Conference on Web Information Systems Engineering (WISE 2020) </i>
+* D. Samariya, <b>S. Aryal</b>, K. M. Ting and J. Ma, 2020, A new effective and efficient measure for outlying aspect mining, Accepted to be published In <i>Proceedings of the 21st International Conference on Web Information Systems Engineering (WISE 2020) </i>
 * C. Sitaula, Y. Xiang, A. Basnet, <b>S. Aryal</b> and X. Lu, 2020, HDF: Hybrid Deep Features for Scene Image Representation, Accepted to be published In <i>Proceedings of the International Joint Conference on Neural Networks (IJCNN 2020)</i>
 *  C. Sitaula, Y. Xiang, A. Basnet, <b>S. Aryal</b> and X. Lu, 2019, Tag-Based Semantic Features for Scene Image Classification, In <i>Proceedings of the International Conference on Neural Information Processing (ICONIP)</i> pp. 90-102.
 * A. A. Baniya, <b>S. Aryal</b> and K. C. Santosh, 2019, A novel data pre-processing technique robust to units and scales of measurement, In <i>Proceedings of the International Conference on Neural Information Processing (ICONIP)</i> as a special issue of the Australian Journal of Intelligent Information Processing Systems 16(3)  pp. 1-8. 
