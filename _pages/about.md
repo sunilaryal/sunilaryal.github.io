@@ -14,7 +14,7 @@ I am a lecturer in IT at the School of Information Technology, Faculty of Facult
 
 Recent updates
 ----------------------
-* Jul 2020: A paper accepted at the 21st International Conference on Web Information Systems Engineering 2020 (WISE 2020), Congratualtions to PhD Durgesh Samariya at Federation University Australia.
+* Jul 2020: A paper accepted at the 21st International Conference on Web Information Systems Engineering 2020 (WISE 2020), Congratualtions to PhD student Durgesh Samariya.
 * Jul 2020: Completed Graduate Certificate in Higher Education Learning and Teaching (GCHELT) from Deakin University.
 * Apr 2020: A paper accepted at the 2020 International Joint Conference on Neural Networks (IJCNN 2020), IEEE World Congress on Computational Intelligence (IEEE WCCI) 2020. Congratualtions to PhD student Chiranjibi Sitaula.
 * Mar 2020: Received a $5000 research grant from the Deakin University SEBE Faculty ECR support grants scheme. 
@@ -22,7 +22,7 @@ Recent updates
 * Dec 2019: Attended Modelling Complex Warfare Symposium organised by DST in Canberra
 * Oct 2019: A paper accepted for publication in the Data Mining and Knowledge Discovery journal
 * Sept 2019: Selected to pitch my research in the PACIFIC 2019 Pitchfest, Sydney, Australia  
-* Sept 2019: Two papers accepted at the 26th International Conference on Neural Information Processing (ICONIP 2019), Congratulations to PhD Student Chiranjibi Sitaula and Master student Arbind Agrahari Baniya
+* Sept 2019: Two papers accepted at the 26th International Conference on Neural Information Processing (ICONIP 2019), Congratulations to PhD student Chiranjibi Sitaula and Master student Arbind Agrahari Baniya
 * Sept 2019: A paper accepted to the 9th Pacific-Rim Symposium on Image and Video Technology (PSIVT 2019), Congratulations to PhD student Chiranjibi Sitaula
 * Jun 2019: A paper accepted for publication in IEEE Access, Congratulations to PhD Student Chiranjibi Sitaula
 * Apr 2019: Our $1.28 million grant proposal led by Mental health organisation Prevention United, Federation University Australia and Ballarat Health Services is approved for funding by WorkSafe, Work Well Improvement Fund (Round 2) 
