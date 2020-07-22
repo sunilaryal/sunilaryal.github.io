@@ -14,6 +14,7 @@ I am a lecturer in IT at the School of Information Technology, Faculty of Facult
 
 Recent updates
 ----------------------
+* Jul 2020: A paper accepted at the 21st International Conference on Web Information Systems Engineering 2020 (WISE 2020), Congratualtions to PhD Durgesh Samariya at Federation University Australia.
 * Jul 2020: Completed Graduate Certificate in Higher Education Learning and Teaching (GCHELT) from Deakin University.
 * Apr 2020: A paper accepted at the 2020 International Joint Conference on Neural Networks (IJCNN 2020), IEEE World Congress on Computational Intelligence (IEEE WCCI) 2020. Congratualtions to PhD student Chiranjibi Sitaula.
 * Mar 2020: Received a $5000 research grant from the Deakin University SEBE Faculty ECR support grants scheme. 
