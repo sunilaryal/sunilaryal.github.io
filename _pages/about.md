@@ -14,8 +14,10 @@ I am a lecturer in IT at the School of Information Technology, Faculty of Facult
 
 Recent updates
 ----------------------
+* Aug 2020: Delivered a keynote speach in the 3rd National Workshop on Machine Learning & Data Science Nepal.
 * Jul 2020: A paper accepted at the 21st International Conference on Web Information Systems Engineering 2020 (WISE 2020), Congratualtions to PhD student Durgesh Samariya.
 * Jul 2020: Completed Graduate Certificate in Higher Education Learning and Teaching (GCHELT) from Deakin University.
+* Jul 2020: Invited to deliver a keynote speach in the [<span>3rd National Workshop on Machine Learning & Data Science Nepal</span>](https://www.mldsn.org/speakers).
 * Apr 2020: A paper accepted at the 2020 International Joint Conference on Neural Networks (IJCNN 2020), IEEE World Congress on Computational Intelligence (IEEE WCCI) 2020. Congratualtions to PhD student Chiranjibi Sitaula.
 * Mar 2020: Received a $5000 research grant from the Deakin University SEBE Faculty ECR support grants scheme. 
 * Jan 2020: A paper accepted for publication in the Knowledge and Information Systems journal 
