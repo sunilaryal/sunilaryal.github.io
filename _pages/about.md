@@ -14,6 +14,7 @@ I am a lecturer in IT at the School of Information Technology, Faculty of Facult
 
 Recent updates
 ----------------------
+* Aug 2020 Our research proposal that I led has been selected for funding by the Office of National Intelligence under the AI for Decision Making Initiative. 
 * Aug 2020: Delivered a keynote speach in the 3rd National Workshop on Machine Learning & Data Science Nepal.
 * Jul 2020: A paper accepted at the 21st International Conference on Web Information Systems Engineering 2020 (WISE 2020), Congratualtions to PhD student Durgesh Samariya.
 * Jul 2020: Completed Graduate Certificate in Higher Education Learning and Teaching (GCHELT) from Deakin University.
