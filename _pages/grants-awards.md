@@ -11,6 +11,7 @@ Grants
 ----------------
 * <b>Principal Investigator</b>, <i>A new robust method to detect anomalies in cybersecurity datasets</i>, <b>AUD 5,000</b> [2020], (sole investigator), a seed grant under Peer-Reviewed ECR Support Scheme (PRESS2020) funded by Deakin University, Faculty of Science, Engineering and Built Environment
 * <b>Co-investigator</b>, <i>Wellbeing Track & Change – Using digital monitoring to improve the mental well-being of residential aged care workers</i>, <b>AUD 1.28 million</b> [2019-2021] (part of a large research team lead by Mental health organisation Prevention United, Federation University Australia and Ballarat Health Services), funded by WorkSafe, WorkWell Improvement Fund (Round 2)
+* <b>Principal Investigator</b>, <i>An ECR startup grant</i>, <b>AUD 10,000</b> [2019-2020], (sole investigator), a career startup grant for early career researcher by the School of Information Technology, Deakin University
 * <b>Conference travel grant</b>, <i>Asian Information Retrieval Society (AIRS) student travel award</i> to attend AIRS conference in Brisbane, Australia [2015]
 * <b>Conference travel grant</b>, <i>Monash Institute of Graduate Research (MIGR) student travel grant</i> to attend AIRS conference in Brisbane, Australia [2015]
 * <b>Conference travel grant</b>, <i>Alberta Innovates Centre for Machine Learning (AICML) student travel award</i> to attend IEEE ICDM in Shenzhen, China [2014]
