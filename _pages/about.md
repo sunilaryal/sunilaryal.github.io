@@ -14,7 +14,7 @@ I am a lecturer in IT at the School of Information Technology, Faculty of Facult
 
 Recent updates
 ----------------------
-* Sep 2020: Our research proposal led by Assoc Prof Richard Dazeley (Deakin University) and Prof Cindy Bethel (Mississippi State University) has been selected for funding by Defence Science and Technology (DST) Group Australia and US Air Force Office of Scientific Research (AFOSR) under the AFOSR - DST Australia Autonomy Initiative [AUD 185,010 (Australia) and USD 120,002 (USA)].
+* Sep 2020: Our research proposal led by Assoc Prof Richard Dazeley (Deakin University) and Prof Cindy Bethel (Mississippi State University) has been selected for funding by Defence Science and Technology (DST) Group Australia and US Air Force Office of Scientific Research (AFOSR) under the AFOSR - DST Australia Autonomy Initiative [AUD 208,463 (Australia) and USD 120,002 (USA)].
 * Sep 2020: Our research proposal led by Assoc Profs Peter Vamplew (Federation University) and Richard Dazeley (Deakin University) has been selected for funding by Defence Science and Technology (DST) Group Australia [AUD 44,000 (FedUni) and AUD 53,000 (Deakin)].
 * Aug 2020: Mr. Chiranjibi Situala, a PhD student that I co-supervised, has submitted his PhD thesis for examination. Hope everything will go well for him. He will be my first PhD student to gaduate, all the best to him!
 * Aug 2020: Our research proposal that I led (with Assoc Prof Santosh KC at the University of South Dakota) has been selected for funding by US Air Force Office of Scientific Research (AFOSR), Asian Office of Aerospace Research and Development (AOARD) and Office of Naval Research Global (ONRG) [USD 100,000, USD 50,000/year for two years] 
