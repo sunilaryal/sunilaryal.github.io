@@ -9,6 +9,7 @@ redirect_from:
 
 Grants
 ----------------
+* <b>Principal Investigator</b>, <i>Developing robust framework for practical data mining</i>, <b>USD 100,000</b> [2020-2022], funded by the US Air Force Office of Scientific Research (AFOSR), Asian Office of Aerospace Research and Development (AOARD) and Office of Naval Research Global (ONRG)
 * <b>Principal Investigator</b>, <i>Ensembling Single-Class Classifiers</i>, <b>AUD 20,000</b> [2020], funded by the Office of National Intelligence (ONI) Australia under the AI for decision making initiative through Defence Science Institute (DSI) Victoria Australia
 * <b>Principal Investigator</b>, <i>A new robust method to detect anomalies in cybersecurity datasets</i>, <b>AUD 5,000</b> [2020], (sole investigator), a seed grant under Peer-Reviewed ECR Support Scheme (PRESS2020) funded by Deakin University, Faculty of Science, Engineering and Built Environment
 * <b>Co-investigator</b>, <i>Wellbeing Track & Change – Using digital monitoring to improve the mental well-being of residential aged care workers</i>, <b>AUD 1.28 million</b> [2019-2021] (part of a large research team lead by Mental health organisation Prevention United, Federation University Australia and Ballarat Health Services), funded by WorkSafe, WorkWell Improvement Fund (Round 2)
