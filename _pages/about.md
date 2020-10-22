@@ -14,6 +14,8 @@ I am a lecturer in IT at the School of Information Technology, Faculty of Facult
 
 Recent updates
 ----------------------
+* Oct 2020: A paper accepted for publication in the Health Information Science and Systems journal (Springer).
+* Oct 2020: A paper accepted for publication in the Journal of Machine Learning and Cybernetics (Springer).
 * Sep 2020: Invited to join [<span>Critical Mineral Consortium</span>](https://www.monash.edu/engineering/critical-minerals-consortium/our-expertise) as a machine learning and data mining expert.
 * Sep 2020: Our research proposal led by Assoc Prof Richard Dazeley (Deakin University) and Prof Cindy Bethel (Mississippi State University) has been selected for funding by Defence Science and Technology (DST) Group Australia and US Air Force Office of Scientific Research (AFOSR) under the AFOSR - DST Australia Autonomy Initiative [AUD 208,463 (Australia) and USD 120,002 (USA)].
 * Sep 2020: Our research proposal led by Assoc Profs Peter Vamplew (Federation University) and Richard Dazeley (Deakin University) has been selected for funding by Defence Science and Technology (DST) Group Australia [AUD 44,000 (FedUni) and AUD 53,000 (Deakin)].
