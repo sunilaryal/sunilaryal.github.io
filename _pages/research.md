@@ -21,10 +21,13 @@ Research interest
   * Learning from small subsample of data
   * Deep learning and image processing
   * Time series data analysis
+  * Reinforcement learning
 * Applications of data mining and machine learning
   * Defence 
   * Healthcare
-  * Cybersecurity and IoT  
+  * Cybersecurity and IoT
+  * Remote Sensing
+  * Critical minerals and mining
 
 
 Current projects
