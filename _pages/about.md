@@ -14,8 +14,9 @@ I am a lecturer in IT at the School of Information Technology, Faculty of Facult
 
 Recent updates
 ----------------------
-* Jan 2020: Invited to serve as a topic editor for the MDPI journal of Applied System Innovation (ASI).
-* Jan 2020: My first PhD student graduated, congratulations to Dr Chiranjibi Sitaula.
+* Jan 2021: Received an approximately $5000 research grant from the Deakin University SEBE Faculty under the Peer-Reviewed ECR Support Scheme 2021 (PRESS2021).
+* Jan 2021: Invited to serve as a topic editor for the MDPI journal of Applied System Innovation (ASI).
+* Jan 2021: My first PhD student graduated, congratulations to Dr Chiranjibi Sitaula.
 * Dec 2020: Invited to serve as a reviewer for the journal of ACM TKDE.
 * Nov 2020: Invited to serve as a PC Member at PAKDD 2021 and IJCAI 2021.
 * Oct 2020: A paper accepted for publication in the Health Information Science and Systems journal (Springer).
