@@ -32,7 +32,7 @@ Recent updates
 * Jul 2020: Completed Graduate Certificate in Higher Education Learning and Teaching (GCHELT) from Deakin University.
 * Jul 2020: Invited to deliver a keynote speach in the [<span>3rd National Workshop on Machine Learning & Data Science Nepal</span>](https://www.mldsn.org/speakers).
 * Apr 2020: A paper accepted at the 2020 International Joint Conference on Neural Networks (IJCNN 2020), IEEE World Congress on Computational Intelligence (IEEE WCCI) 2020. Congratualtions to PhD student Chiranjibi Sitaula.
-* Mar 2020: Received a $5000 research grant from the Deakin University SEBE Faculty ECR support grants scheme. 
+* Mar 2020: Received a $5000 research grant from the Deakin University SEBE Faculty under the Peer-Reviewed ECR Support Scheme 2020 (PRESS2020). 
 * Jan 2020: A paper accepted for publication in the Knowledge and Information Systems journal 
 * Dec 2019: Attended Modelling Complex Warfare Symposium organised by DST in Canberra
 * Oct 2019: A paper accepted for publication in the Data Mining and Knowledge Discovery journal
