@@ -17,6 +17,7 @@ Professional membership
 
 Service to research community
 -----------------------------
+* Topic Editor (Data Mining and Machine Learning) - MDPI journal of Applied System Innovation (ASI).
 * Associate Editor - International Journal of Signal Processing, Image Processing and Pattern Recognition (IJSIP)
 * PC Member - AAAI 2019, PAKDD 2019, ICONIP 2019, PAKDD2020, ECML/PKDD 2020, ISNCC2020 (Data Science and Big Data Systems Engineering), WI-IAT 2020, PAKDD 2021, IJCAI 2021
 * Reviewer - Journal of Artificial Intelligence Research, IEEE Intelligent Systems
