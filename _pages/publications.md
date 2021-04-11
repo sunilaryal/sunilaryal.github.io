@@ -9,7 +9,7 @@ redirect_from:
 
 Journal articles
 ----------------
-* C. Sitaula, A. Basnet and <b>S. Aryal</b> 2021, Vector representation based on a supervised codebook for Nepali documents classification, <i> PeerJ Computer Science</i>, 7:e412 doi: 10.7717/peerj-cs.412
+* C. Sitaula, A. Basnet and <b>S. Aryal</b>, 2021, Vector representation based on a supervised codebook for Nepali documents classification, <i> PeerJ Computer Science</i>, 7:e412 doi: 10.7717/peerj-cs.412
 * <b>S. Aryal</b>, KC Santosh and R. Dazeley, 2021, usfAD: A robust anomaly detector based on unsupervised stochastic forest, <i>International journal of machine learning and cybernetics</i>, 12 pp 1137–1150
 * C. Sitaula and <b>S. Aryal</b>, 2020, Fusion of whole and part features for the classification of histopathological image of breast tissue, <i>Health Information Science and Systems</i>, 8 (Article#38), doi: 10.1007/s13755-020-00131-7 
 * J. R. Wells, <b>S. Aryal</b> and K. M. Ting, 2020, Simple supervised dissimilarity measure: Bolstering iForest-induced similarity with class information without learning, <i>Knowledge and Information Systems</i>, 62(8) pp 3203-3216
