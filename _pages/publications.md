@@ -9,9 +9,12 @@ redirect_from:
 
 Journal articles
 ----------------
+* C. Sitaula, A. Basnet and <b>S. Aryal</b> 2021, Vector representation based on a supervised codebook for Nepali documents classification, <i> PeerJ Computer Science</i>, 7:e412 doi: 10.7717/peerj-cs.412
+* <b>S. Aryal</b>, KC Santosh and R. Dazeley, 2021, usfAD: A robust anomaly detector based on unsupervised stochastic forest, <i>International journal of machine learning and cybernetics</i>, 12 pp 1137–1150
+* C. Sitaula and <b>S. Aryal</b>, 2020, Fusion of whole and part features for the classification of histopathological image of breast tissue, <i>Health Information Science and Systems</i>, 8 (Article#38), doi: 10.1007/s13755-020-00131-7 
 * J. R. Wells, <b>S. Aryal</b> and K. M. Ting, 2020, Simple supervised dissimilarity measure: Bolstering iForest-induced similarity with class information without learning, <i>Knowledge and Information Systems</i>, 62(8) pp 3203-3216
 * <b>S. Aryal</b>, K. M. Ting, T. Washio and G. Haffari, 2020, A comparative study of data-dependent approaches without learning in measuring similarities of data objects, <i>Data Mining and Knowledge Discovery</i> 34(1) pp 124-162
-* 	C. Sitaula, Y. Xiang, Y. Zhang, X. Lu, <b>S. Aryal</b>, 2019, Indoor Image Representation by High-Level Semantic Features. <i>IEEE Access</i> 7 pp 84967-84979
+* C. Sitaula, Y. Xiang, Y. Zhang, X. Lu, <b>S. Aryal</b>, 2019, Indoor Image Representation by High-Level Semantic Features. <i>IEEE Access</i> 7 pp 84967-84979
 * <b>S. Aryal</b>, K. M. Ting, T. Washio and G. Haffari, 2017, Data dependent dissimilarity measure: An effective alternative to geometric distance measures, <i>Knowledge and Information Systems</i> 53(2) pp 479–506
 * K. M. Ting, T. Washio, J. R. Wells and <b>S. Aryal</b>, 2017, Defying the gravity of learning curve: a characteristic of nearest neighbour anomaly detectors, <i>Machine Learning</i> 106(1) pp 55–91
 * <b>S. Aryal</b> and K. M. Ting, 2016, A generic ensemble approach to estimate multi-dimensional likelihood in Bayesian classifier learning, <i>Computational Intelligence</i> 32(3) pp 458-479
