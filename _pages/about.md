@@ -14,6 +14,7 @@ I am a lecturer in IT at the School of Information Technology, Faculty of Facult
 
 Recent updates
 ----------------------
+* Apr 2021: A paper accepted for publication in the Health Information Science and Systems journal (Springer). Congratulaions and thanks to Dr. Chiranjibi Sitaula for leading the work.
 * Apr 2021: A paper accepted at the 2021 International Joint Conference on Neural Networks (IJCNN 2021). 
 * Feb 2021: A paper accepted for publication in the PeerJ Computer Scinence Journal. Congratulaions and thanks to Dr. Chiranjibi Sitaula for leading the work.
 * Jan 2021: Received an approximately $5000 research grant from the Deakin University SEBE Faculty under the Peer-Reviewed ECR Support Scheme 2021 (PRESS2021).
