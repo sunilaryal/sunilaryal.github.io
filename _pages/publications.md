@@ -9,6 +9,7 @@ redirect_from:
 
 Journal articles
 ----------------
+* C. Sitaula and <b>S. Aryal</b>, 2021, New Bag of Deep Visual Words based Features to Classify Chest X-ray Images for COVID-19 diagnosis, <i>Health Information Science and Systems</i>, (Accepted on 16 April 2021)
 * C. Sitaula, A. Basnet and <b>S. Aryal</b>, 2021, Vector representation based on a supervised codebook for Nepali documents classification, <i> PeerJ Computer Science</i>, 7:e412 doi: 10.7717/peerj-cs.412
 * <b>S. Aryal</b>, KC Santosh and R. Dazeley, 2021, usfAD: A robust anomaly detector based on unsupervised stochastic forest, <i>International journal of machine learning and cybernetics</i>, 12 pp 1137–1150
 * C. Sitaula and <b>S. Aryal</b>, 2020, Fusion of whole and part features for the classification of histopathological image of breast tissue, <i>Health Information Science and Systems</i>, 8 (Article#38), doi: 10.1007/s13755-020-00131-7 
