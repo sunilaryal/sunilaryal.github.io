@@ -49,6 +49,6 @@ Research assitant and students
 
 Graduated research students
 ---------------------------
-* Dr Chiranjibi Sitaula (PhD 2021, Deakin University) ->
+* Dr Chiranjibi Sitaula (PhD 2021, Deakin University) -> Postdoctoral Research Fellow at Monash University (2021)
 * Mr Arbind Agrahari Baniya (Master 2019, Deakin University) -> PhD, Deakin University (2020)
 * Mr Niraj Lama (Master 2019, Deakin University) -> Software Developer, I.E. Company (2020)
