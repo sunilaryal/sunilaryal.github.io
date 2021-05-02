@@ -38,7 +38,7 @@ Ongoing projects
 * Biomedical gignal (EEG) processing
 * Explainable AI
 
-Research assitant and students
+Research team
 ------------------------------
 * Mr Zafaryab Rasool - Associate Research Fellow (Deakin university, May 2021 - )
 * Mr Jonathan R. Wells - Research Assistant (Deakin university)
