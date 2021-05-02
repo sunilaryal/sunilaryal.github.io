@@ -40,6 +40,7 @@ Ongoing projects
 
 Research assitant and students
 ------------------------------
+* Mr Zafaryab Rasool - Associate Research Fellow (Deakin university, May 2021 - )
 * Mr Jonathan R. Wells - Research Assistant (Deakin university)
 * Mr Arbind Agrahari Baniya - PhD student (Associate supervisor with Dr Glory Lee and Prof Peter Eklund, Deakin University)
 * Mr Yifu Tang - PhD student (Associate supervisor with A/Prof Jianxin Li and Dr Sasan Adibi, Deakin University)
