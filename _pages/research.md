@@ -18,7 +18,7 @@ Research interest
   * Anomaly detection
   * Ensemble-based & random methods
   * Learning from small subsample of data
-  * Imag and text processing
+  * Image and text processing
   * Time series data analysis
   * Reinforcement learning
 * Applications of data mining and machine learning
