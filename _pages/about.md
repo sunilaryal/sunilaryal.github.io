@@ -14,6 +14,7 @@ I am a lecturer in IT at the School of Information Technology, Faculty of Facult
 
 Recent updates
 ----------------------
+* May 2021: I am happy to be a Fellow of the UK Higher Education Academy (HEA).
 * May 2021: Mr Zafaryab Rasool joins our team as an associate research fellow. Welcome to Zafar. 
 * May 2021: A paper accepted for publucation in the Artificial Intelligence journal (Elsevier). Congratulations and thanks to Assoc Prof Richard Dazeley for leading the work.
 * Apr 2021: A paper accepted for publication in the Health Information Science and Systems journal (Springer). Congratulaions and thanks to Dr. Chiranjibi Sitaula for leading the work.
