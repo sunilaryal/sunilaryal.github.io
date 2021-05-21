@@ -18,6 +18,7 @@ Research interest
   * Anomaly detection
   * Ensemble-based & random methods
   * Learning from small subsample of data
+  * Learning from mixed (numeric and categorical) data
   * Image and text processing
   * Time series data analysis
   * Reinforcement learning
@@ -31,11 +32,11 @@ Research interest
 
 Ongoing projects
 ----------------
-* Efficient and obust anomaly detection
+* Efficient and robust anomaly detection
 * Data mining methods robust to units/scales of data measurement
 * Outlying aspect mining
 * Image (biomedical and satellite) processing 
-* Biomedical gignal (EEG) processing
+* Biomedical signal (EEG) processing
 * Explainable AI
 
 Research team
