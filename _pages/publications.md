@@ -9,7 +9,8 @@ redirect_from:
 
 Journal articles
 ----------------
-* C. Sitaula and <b>S. Aryal</b>, 2021, New Bag of Deep Visual Words based Features to Classify Chest X-ray Images for COVID-19 diagnosis, <i>Health Information Science and Systems</i>, (Accepted on 16 April 2021)
+* R. Dazeley, P. Vamplew, C. Foale, C. Young, <b>S. Aryal</b> and F. Cruz, 2021, Levels of Explainable Artificial Intelligence for Human-Aligned Conversational Explanations, <i>Artificial Intelligence</i>, doi:j.artint.2021.103525
+*  C. Sitaula and <b>S. Aryal</b>, 2021, New Bag of Deep Visual Words based Features to Classify Chest X-ray Images for COVID-19 diagnosis, <i>Health Information Science and Systems</i>, (Accepted on 16 April 2021)
 * C. Sitaula, A. Basnet and <b>S. Aryal</b>, 2021, Vector representation based on a supervised codebook for Nepali documents classification, <i> PeerJ Computer Science</i>, 7:e412 doi: 10.7717/peerj-cs.412
 * <b>S. Aryal</b>, KC Santosh and R. Dazeley, 2021, usfAD: A robust anomaly detector based on unsupervised stochastic forest, <i>International journal of machine learning and cybernetics</i>, 12 pp 1137–1150
 * C. Sitaula and <b>S. Aryal</b>, 2020, Fusion of whole and part features for the classification of histopathological image of breast tissue, <i>Health Information Science and Systems</i>, 8 (Article#38), doi: 10.1007/s13755-020-00131-7 
@@ -23,6 +24,7 @@ Journal articles
 
 Conference & workshop papers
 ----------------------------
+* <b>S. Aryal</b>, A. A. Baniya, I. Razzak and K.C. Santosh, 2021, SPAD+: An Improved Probabilistic Anomaly Detector based on One-dimensional Histograms, Accepted to be published In <i>Proceedings of the International Joint Conference on Neural Networks (IJCNN 2021) </i>
 * D. Samariya, <b>S. Aryal</b>, K. M. Ting and J. Ma, 2020, A new effective and efficient measure for outlying aspect mining, Accepted to be published In <i>Proceedings of the 21st International Conference on Web Information Systems Engineering (WISE 2020) </i>
 * C. Sitaula, Y. Xiang, A. Basnet, <b>S. Aryal</b> and X. Lu, 2020, HDF: Hybrid Deep Features for Scene Image Representation, Accepted to be published In <i>Proceedings of the International Joint Conference on Neural Networks (IJCNN 2020)</i>
 *  C. Sitaula, Y. Xiang, A. Basnet, <b>S. Aryal</b> and X. Lu, 2019, Tag-Based Semantic Features for Scene Image Classification, In <i>Proceedings of the International Conference on Neural Information Processing (ICONIP)</i> pp. 90-102.
