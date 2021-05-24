@@ -14,11 +14,12 @@ I am a lecturer in IT at the School of Information Technology, Faculty of Facult
 
 Recent updates
 ----------------------
+* May 2021: A paper accepted for publication by the Expert Systems with Applicaions journal (Elsevier). Congratulaions and thanks to Dr. Chiranjibi Sitaula for leading the work.
 * May 2021: I am happy to be a Fellow of the UK Higher Education Academy (HEA).
 * May 2021: I am serving as a workshop co-chair for the International Conference on Advanced Data Mining and Applications (ADMA) 2021. 
 * May 2021: Mr Zafaryab Rasool joins our team as an associate research fellow. Welcome to Zafar. 
-* May 2021: A paper accepted for publucation in the Artificial Intelligence journal (Elsevier). Congratulations and thanks to Assoc Prof Richard Dazeley for leading the work.
-* Apr 2021: A paper accepted for publication in the Health Information Science and Systems journal (Springer). Congratulaions and thanks to Dr. Chiranjibi Sitaula for leading the work.
+* May 2021: A paper accepted for publucation by the Artificial Intelligence journal (Elsevier). Congratulations and thanks to Assoc Prof Richard Dazeley for leading the work.
+* Apr 2021: A paper accepted for publication by the Health Information Science and Systems journal (Springer). Congratulaions and thanks to Dr. Chiranjibi Sitaula for leading the work.
 * Apr 2021: A paper accepted at the 2021 International Joint Conference on Neural Networks (IJCNN 2021). 
 * Feb 2021: A paper accepted for publication in the PeerJ Computer Scinence Journal. Congratulaions and thanks to Dr. Chiranjibi Sitaula for leading the work.
 * Jan 2021: Received an approximately $5000 research grant from the Deakin University SEBE Faculty under the Peer-Reviewed ECR Support Scheme 2021 (PRESS2021).
