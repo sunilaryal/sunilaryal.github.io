@@ -15,6 +15,7 @@ I am a lecturer in IT at the School of Information Technology, Faculty of Facult
 Recent updates
 ----------------------
 * May 2021: A paper accepted for publication by the Expert Systems with Applicaions journal (Elsevier). Congratulaions and thanks to Dr. Chiranjibi Sitaula for leading the work.
+* Received an approximately $10,000 research grant from the Deakin University School of IT under the ECR Small Grant Scheme 2021.
 * May 2021: I am happy to be a Fellow of the UK Higher Education Academy (HEA).
 * May 2021: I am serving as a workshop co-chair for the International Conference on Advanced Data Mining and Applications (ADMA) 2021. 
 * May 2021: Mr Zafaryab Rasool joins our team as an associate research fellow. Welcome to Zafar. 
