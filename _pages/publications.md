@@ -9,7 +9,7 @@ redirect_from:
 
 Journal articles
 ----------------
-* * C. Sitaula, Y. Xiang, <b>S. Aryal</b>, X. Lu, 2021, Scene image representation by foreground, background and hybrid features. <i>Expert Systems with Applications</i> 182 pp 115285
+* C. Sitaula, Y. Xiang, <b>S. Aryal</b>, X. Lu, 2021, Scene image representation by foreground, background and hybrid features. <i>Expert Systems with Applications</i> 182 pp 115285
 * R. Dazeley, P. Vamplew, C. Foale, C. Young, <b>S. Aryal</b> and F. Cruz, 2021, Levels of Explainable Artificial Intelligence for Human-Aligned Conversational Explanations, <i>Artificial Intelligence</i>, 299, pp 103525 doi:j.artint.2021.103525
 *  C. Sitaula and <b>S. Aryal</b>, 2021, New Bag of Deep Visual Words based Features to Classify Chest X-ray Images for COVID-19 diagnosis, <i>Health Information Science and Systems</i>, (Accepted on 16 April 2021)
 * C. Sitaula, A. Basnet and <b>S. Aryal</b>, 2021, Vector representation based on a supervised codebook for Nepali documents classification, <i> PeerJ Computer Science</i>, 7:e412 doi: 10.7717/peerj-cs.412
