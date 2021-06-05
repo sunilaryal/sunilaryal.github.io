@@ -9,6 +9,7 @@ redirect_from:
 
 Grants
 ----------------
+* <b>Principal Investigator</b>, <i>Efficient outlying aspect mining in data with mixed attributes</i>, <b>AUD 10,000</b> [2021], (sole investigator), an Early Career Researcher small grant funded by Deakin University, School of Information Technology
 * <b>Principal Investigator</b>, <i>Practical anomaly detection method for real-world problems</i>, <b>AUD 5,000</b> [2021], (sole investigator), a seed grant under Peer-Reviewed ECR Support Scheme (PRESS2021) funded by Deakin University, Faculty of Science, Engineering and Built Environment
 * <b>Co-Investigator</b>, <i>A competency-aware multi-agent framework for human-machine teams in adversarial environments</i>, <b>AUD 373,199</b> [AUD 208,463 (AUS) + USD 120,002 (USA)] [2021-2022], led by Assoc Prof Richard Dazeley (Deakin University, AUS) and Prof Prof Cindy Bethel (Mississippi State University, USA), funded jointly by Defence Science and Technology (DST) Group Australia and US Air Force Office of Scientific Research (AFOSR) under the AFOSR-DST Australia Autonomy Initiative 2020.
 * <b>Co-Investigator</b>, <i>Modeling Adversary Intent Using Multiobjective Reinforcement Learning</i>, <b>AUD 97,000</b> [2021], led by  Assoc Prof Peter Vamplew (Federation University) and Assoc Prof Richard Dazeley (Deakin University), funded by Defence Science and Technology (DST) Group Australia.
