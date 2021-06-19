@@ -25,6 +25,7 @@ Journal articles
 
 Conference & workshop papers
 ----------------------------
+* <b>S. Aryal</b> and J. R. Wells, 2021, Ensemble of Local Decision Trees for Anomaly Detection in Mixed Data, Accepted to be published In <i>Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD 2021) </i>
 * <b>S. Aryal</b>, A. A. Baniya, I. Razzak and K.C. Santosh, 2021, SPAD+: An Improved Probabilistic Anomaly Detector based on One-dimensional Histograms, Accepted to be published In <i>Proceedings of the International Joint Conference on Neural Networks (IJCNN 2021) </i>
 * D. Samariya, <b>S. Aryal</b>, K. M. Ting and J. Ma, 2020, A new effective and efficient measure for outlying aspect mining, Accepted to be published In <i>Proceedings of the 21st International Conference on Web Information Systems Engineering (WISE 2020) </i>
 * C. Sitaula, Y. Xiang, A. Basnet, <b>S. Aryal</b> and X. Lu, 2020, HDF: Hybrid Deep Features for Scene Image Representation, Accepted to be published In <i>Proceedings of the International Joint Conference on Neural Networks (IJCNN 2020)</i>
