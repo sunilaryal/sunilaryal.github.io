@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Accreditation 
+--------------
+Fellow of the UK AdvanceHE, formerly known as Higher Education Academy (HEA) [2021]
+
 Deakin University (2019-)
 -------------------------
 Campus Coordination, Lecturing and Tutoring
