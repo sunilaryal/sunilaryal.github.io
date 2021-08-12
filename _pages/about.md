@@ -14,6 +14,7 @@ I am a lecturer in IT at the School of Information Technology, Faculty of Facult
 
 Recent updates
 ----------------------
+* Aug 2021: A paper accepted for publication by the IEEE Transactions on Geoscience and Remote Sensing journal. The paper is led by our collaborator Dr Song Xiangyu at the Chinese Academy of Sciences.
 * July 2021: Aug 2020: Our research proposal led by Dr Imran Razzak has been selected for funding by the Office of National Intelligence (ONI) under the AI for Decision Making Initiative Round 2 Phase 1 though Defence Science Institute (DSI) [AUD 20,000]. 
 * Jun 2021: A paper accepted at the European Conference on Machine Learning (ECML) and Principles and Practice of Knowledge Discovery in Databases (PKDD) 2021.  
 * May 2021: A paper accepted for publication by the Expert Systems with Applicaions journal (Elsevier). Congratulaions and thanks to Dr. Chiranjibi Sitaula for leading the work.
