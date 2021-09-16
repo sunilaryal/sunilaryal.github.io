@@ -9,6 +9,8 @@ redirect_from:
 
 Journal articles
 ----------------
+* C. Sitaula, <b>S. Aryal</b>, Y. Xiang, A. Basnet, X. Lu, 2021, Content and context features for scene image representation. <i>Knowledge-Based Systems</i>, doi:10.1016/j.knosys.2021.107470
+* X. Song, <b>S. Aryal</b>, K. Ting, Z. Liu, B. He, 2021, Spectral-Spatial Anomaly Detection of Hyperspectral Data Based on Improved Isolation Forest. <i>EEE Transactions on Geoscience and Remote Sensing</i>, doi:10.1109/tgrs.2021.3104998
 * C. Sitaula, Y. Xiang, <b>S. Aryal</b>, X. Lu, 2021, Scene image representation by foreground, background and hybrid features. <i>Expert Systems with Applications</i>, 182 pp 115285
 * R. Dazeley, P. Vamplew, C. Foale, C. Young, <b>S. Aryal</b> and F. Cruz, 2021, Levels of Explainable Artificial Intelligence for Human-Aligned Conversational Explanations, <i>Artificial Intelligence</i>, 299, pp 103525 doi:j.artint.2021.103525
 *  C. Sitaula and <b>S. Aryal</b>, 2021, New Bag of Deep Visual Words based Features to Classify Chest X-ray Images for COVID-19 diagnosis, <i>Health Information Science and Systems</i>, (Accepted on 16 April 2021)
