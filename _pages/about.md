@@ -14,6 +14,7 @@ I am a lecturer in IT at the School of Information Technology, Faculty of Scienc
 
 Recent updates
 ----------------------
+* Nov 2021: Promoted to Level C Senior Lecturer to be effective from 1 Jan 2022.
 * Sep 2021: A paper accepted for publication by the Knowledge Based Systems journal (Elsevier). Congratulaions and thanks to Dr. Chiranjibi Sitaula for leading the work.
 * Aug 2021: A paper accepted for publication by the IEEE Transactions on Geoscience and Remote Sensing journal. The paper is led by our collaborator Dr Song Xiangyu at the Chinese Academy of Sciences.
 * Jul 2020: Invited to give a guest speach in the [<span>4th National Workshop on Machine Learning & Data Science Nepal</span>](https://sites.google.com/view/mountech-deeplearning/home).
