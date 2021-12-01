@@ -16,7 +16,7 @@ Fellow of the UK AdvanceHE, formerly known as Higher Education Academy (HEA) [20
 Deakin University (2019-)
 -------------------------
 Campus Coordination, Lecturing and Tutoring
-* SIT103 Database and Information Retrieval
+* SIT103 Data and Information Management
 * SIT223 Professional Practice in Information Technology
 * SIT306 IT Placement
 * SIT720 Machine Learning
