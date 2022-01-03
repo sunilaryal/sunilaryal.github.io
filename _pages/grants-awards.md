@@ -7,7 +7,7 @@ redirect_from:
   - /grants-awards
 ---
 
-Grants
+Research Grants
 ----------------
 * <b>Co-Investigator</b>, <i>Utilizing Extractive-Abstractive Summarization for Understanding the Narrative of Social Media Users from Multimodal Data</i>, <b>AUD 20,000</b> [2020], led by Dr Imran Razzak (Deakin University) funded by the <ins>Office of National Intelligence (ONI) Australia</ins> under the AI for Decision Making Initiative Rpound 1 Phase 1 through Defence Science Institute (DSI) Victoria Australia
 * <b>Principal Investigator</b>, <i>Efficient outlying aspect mining in data with mixed attributes</i>, <b>AUD 10,000</b> [2021], (sole investigator), an Early Career Researcher small grant funded by <ins>Deakin University, School of Information Technology</ins>
@@ -24,8 +24,10 @@ Grants
 * <b>Conference travel grant</b>, <i>Alberta Innovates Centre for Machine Learning (AICML) student travel award</i> to attend IEEE ICDM in Shenzhen, China [2014]
 * <b>Conference travel grant</b>, <i>Monash Institute of Graduate Research (MIGR) student travel grant</i> to attend IEEE ICDM in Shenzhen, China [2014]
 
-Awards/Scholarships
---------------------
+Awards and Scholarships
+------------------------
+* Deakin School of IT Research Award for Excellence in Early Career Research Performance [2021]
+* Deakin School of IT Teaching Award for Excellence in Unit Leadership and Supporting Student Learning [2021]
 * Australian Postgraduate Award (APA) for PhD at Monash University [2013-2017]
 * Best Poster Award at the Faculty of IT higher degrees by research conference, Monash University [2012]
 * Monash Postgraduate Publication Award (PPA) [2012]
