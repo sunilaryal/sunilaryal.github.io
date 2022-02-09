@@ -18,7 +18,8 @@ Professional membership
 
 Committees serving/served
 --------------------------
-* Course Director - Graduate Certificate in iT, Deakin University, School of IT (2022-)
+* Course Director - Graduate Certificate in IT, Deakin University, School of IT (2022-)
+* Industry Practice Lead (Machine Learning), Deakin University, School of IT (2022-) 
 * Co-Deputy Course Director - Bachelor of IT, Deakin Univeristy, School of IT (2020-2021)
 * Treasurer - IEEE Computer Intelligence Society Victoria Chapter (2018-2019)
 * Member - Course Leadership Team, Master of IT, Deakin University, School of IT (2019)
