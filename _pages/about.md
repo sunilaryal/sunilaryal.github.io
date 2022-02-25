@@ -14,6 +14,8 @@ I am a Senior Lecturer in IT at the School of Information Technology, Faculty of
 
 Recent updates
 ----------------------
+* Feb 2022: A paper accepted for publication by the MDPI Land journal. Congratulations and thanks to Dr. Jagannath Aryal (University of Melbourne) for initiating and leading the work.
+* Feb 2022: Awarded a Window on Science (WOS) travel grant (US$6,800) to visit US Air Force Research labs in Virginia USA. 
 * Feb 2022: Appointed as the Course Director for Graduate Certificate in IT at the School of IT, Deakin University 
 * Feb 2022: Appointed as the Industry Practice Lead (Machine Learning) at the School of IT, Deakin University
 * Dec 2021: Recieved two Deakin School of IT awards, one each in Research and Teaching excellence: (i) Excellence in Early Career Research Performance, and (ii) Excellence in Unit Leadership and Supporting Student Learning.
