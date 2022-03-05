@@ -14,7 +14,7 @@ I am a Senior Lecturer in IT at the School of Information Technology, Faculty of
 
 Recent updates
 ----------------------
-* Msr 2022: Awarded a competitive research grant of US$225,000 (>A$300,000) by the US Air Force Office of Scientific Research (AFOSR) as the lead investigator with my colleague Dr Mohamed Reda Bouadejenek the co-investigator.
+* Mar 2022: Awarded a competitive research grant of US$225,000 (>A$300,000) by the US Air Force Office of Scientific Research (AFOSR) as the lead investigator with my colleague Dr Mohamed Reda Bouadejenek the co-investigator.
 * Feb 2022: A paper accepted for publication by the MDPI Land journal. Congratulations and thanks to my collaborator Dr. Jagannath Aryal (University of Melbourne) for initiating and leading the work.
 * Feb 2022: Awarded a Window On Science (WOS) travel grant (US$6,800) by the US Air Force Office of Scientific Research (AFOSR) to visit US Air Force Research labs in Virginia USA. 
 * Feb 2022: Appointed as the Course Director for Graduate Certificate in IT at the School of IT, Deakin University 
