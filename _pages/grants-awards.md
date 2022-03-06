@@ -10,7 +10,7 @@ redirect_from:
 Research Grants
 ----------------
 * <b>Principal Investigator</b>, <i>Machine Learning in Heterogeneous Data from Multiple Sources</i>, <b>USD 225,000</b> [2022-2025], funded by the <ins>US Air Force Office of Scientific Research (AFOSR), Asian Office of Aerospace Research and Development (AOARD) </ins>
-* <b>Principal Investigator</b>, <i>Window On Science Travel Award</i>, <b>USD 6,800</b> [2022], funded by the <ins>US Air Force Office of Scientific Research (AFOSR) to visit US Air Force and Space Force Labs in Virginia, USA</ins>
+* <b>Principal Investigator</b>, <i>Window On Science Travel Award</i>, <b>USD 6,800</b> [2022], funded by the <ins>US Air Force Office of Scientific Research (AFOSR)</ins> to visit US Air Force and Space Force Labs in Virginia, USA
 * <b>Co-Investigator</b>, <i>Utilizing Extractive-Abstractive Summarization for Understanding the Narrative of Social Media Users from Multimodal Data</i>, <b>AUD 20,000</b> [2020], led by Dr Imran Razzak (Deakin University) funded by the <ins>Office of National Intelligence (ONI) Australia</ins> under the AI for Decision Making Initiative Rpound 1 Phase 1 through Defence Science Institute (DSI) Victoria Australia
 * <b>Principal Investigator</b>, <i>Efficient outlying aspect mining in data with mixed attributes</i>, <b>AUD 10,000</b> [2021], (sole investigator), an Early Career Researcher small grant funded by <ins>Deakin University, School of Information Technology</ins>
 * <b>Principal Investigator</b>, <i>Practical anomaly detection method for real-world problems</i>, <b>AUD 5,000</b> [2021], (sole investigator), a seed grant under Peer-Reviewed ECR Support Scheme (PRESS2021) funded by <ins>Deakin University, Faculty of Science, Engineering and Built Environment</ins>
