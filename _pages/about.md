@@ -14,6 +14,9 @@ I am a Senior Lecturer in IT at the School of Information Technology, Faculty of
 
 Recent updates
 ----------------------
+* May 2022: A paper accepted for publication by the Machine Learning with Applications journal. Congratulations and thanks to my colleague Dr Thanh Thi Nguyen for initiating and leading the work.
+* Apr 2022: Our research proposal led by Assoc Prof Richard Dazeley has been selected for funding by the Defence Science and Technology (DST) Group under the AI for Decision Making Initiative Round 3 Phase 1 [AUD 30,000].
+* Apr 2022: A paper accepted for publication by the PeerJ Computer Sciecne journal. Congratulations and thanks to my collaborator Assoc Prof KC Santosh (University of South Dakota) for initiating and leading the work.
 * Mar 2022: Awarded a competitive research grant of US$225,000 (>A$300,000) by the US Air Force Office of Scientific Research (AFOSR) as the lead investigator with my colleague Dr Mohamed Reda Bouadejenek the co-investigator.
 * Feb 2022: A paper accepted for publication by the MDPI Land journal. Congratulations and thanks to my collaborator Dr. Jagannath Aryal (University of Melbourne) for initiating and leading the work.
 * Feb 2022: Awarded a Window On Science (WOS) travel grant (US$6,800) by the US Air Force Office of Scientific Research (AFOSR) to visit US Air Force Research labs in Virginia USA. 
@@ -25,7 +28,7 @@ Recent updates
 * Sep 2021: A paper accepted for publication by the Knowledge Based Systems journal (Elsevier). Congratulations and thanks to Dr. Chiranjibi Sitaula for leading the work.
 * Aug 2021: A paper accepted for publication by the IEEE Transactions on Geoscience and Remote Sensing journal. The paper is led by our collaborator Dr Song Xiangyu at the Chinese Academy of Sciences.
 * Jul 2020: Invited to give a guest speach in the [<span>4th National Workshop on Machine Learning & Data Science Nepal</span>](https://sites.google.com/view/mountech-deeplearning/home).
-* July 2021: Aug 2020: Our research proposal led by Dr Imran Razzak has been selected for funding by the Office of National Intelligence (ONI) under the AI for Decision Making Initiative Round 2 Phase 1 though Defence Science Institute (DSI) [AUD 20,000]. 
+* July 2021: Our research proposal led by Dr Imran Razzak has been selected for funding by the Office of National Intelligence (ONI) under the AI for Decision Making Initiative Round 2 Phase 1 though Defence Science Institute (DSI) [AUD 20,000]. 
 * Jun 2021: A paper accepted at the European Conference on Machine Learning (ECML) and Principles and Practice of Knowledge Discovery in Databases (PKDD) 2021.  
 * May 2021: A paper accepted for publication by the Expert Systems with Applicaions journal (Elsevier). Congratulations and thanks to Dr. Chiranjibi Sitaula for leading the work.
 * May 2021: Received an approximately $10,000 research grant from the Deakin University School of IT under the ECR Small Grant Scheme 2021.
