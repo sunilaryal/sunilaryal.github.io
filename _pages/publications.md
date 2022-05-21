@@ -9,6 +9,8 @@ redirect_from:
 
 Journal articles
 ----------------
+* T. T. Nguyen, M. Abdelrazek, D. T. Nguyen, <b>S. Aryal</b>, D. T. Nguyen, S. Reddy, Q. V. H. Nguyen, A. Khatami, T. T. Nguyen, E. B. Hsu, S. Yang, 2022, Origin of novel coronavirus causing COVID-19: A computational biology study using artificial intelligence, doi: 10.1016/j.mlwa.2022.100328
+* K.C. Santosh, N. Rasmussen, M. Mamun, and <b>S. Aryal</b>, 2022, A systematic review on cough sound analysis for Covid-19 diagnosis and screening: is my cough sound COVID-19?, <i> PeerJ Computer Science</i>, 8:e958 doi: 10.7717/peerj-cs.958
 * J. Aryal, C. Sitaula, <b>S. Aryal</b>, 2022, NDVI Threshold-Based Urban Green Space Mapping from Sentinel-2A at the Local Governmental Area (LGA) Level of Victoria, Australia. <i>Land</i>, 11(3), 351, doi:10.3390/land11030351
 * C. Sitaula, T. B. Shahi, <b>S. Aryal</b>, F. Marzbanrad, 2021, Fusion of multi-scale bag of deep visual words features of chest X-ray images to detect COVID-19 infection. <i>Scientific Report </i>, 11, Article No. 23914, doi:10.1038/s41598-021-03287-8
 * C. Sitaula, <b>S. Aryal</b>, Y. Xiang, A. Basnet, X. Lu, 2021, Content and context features for scene image representation. <i>Knowledge-Based Systems</i>, doi:10.1016/j.knosys.2021.107470
