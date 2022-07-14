@@ -14,6 +14,8 @@ I am a Senior Lecturer in IT at the School of Information Technology, Faculty of
 
 Recent updates
 ----------------------
+* Jul 2022 Recieved a DeakinDesign transformaion grant of $10K to develop a sfotware to use in Grad Cert of IT units. I led the application with my colleagues Dr Michael Hobbs, Assoc Prof Andrew Cain and Dr Kevin Lee.  
+* Jul 2022 Awarded one of the five Deakin University Faculty of Science, Engineering and Built Environment (SEBE) learning and teaching awards 2022 for the excellence in unit leadership and supporting students learning.
 * May 2022: A paper accepted for publication by the Machine Learning with Applications journal. Congratulations and thanks to my colleague Dr Thanh Thi Nguyen for initiating and leading the work.
 * Apr 2022: Our research proposal led by Assoc Prof Richard Dazeley has been selected for funding by the Defence Science and Technology (DST) Group under the AI for Decision Making Initiative Round 3 Phase 1 [AUD 30,000].
 * Apr 2022: A paper accepted for publication by the PeerJ Computer Sciecne journal. Congratulations and thanks to my collaborator Assoc Prof KC Santosh (University of South Dakota) for initiating and leading the work.
