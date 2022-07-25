@@ -14,6 +14,7 @@ I am a Senior Lecturer in IT at the School of Information Technology, Faculty of
 
 Recent updates
 ----------------------
+* Jul 2022: A paper accepted by the WISE 2022 Conference. Congratulations to Mr Durgesh Samariya (PhD Student at Federation University Australia) for leading the work.
 * Jul 2022: Recieved a DeakinDesign transformaion grant of $10K to develop a sfotware to use in Grad Cert of IT units. I led the application with my colleagues Dr Michael Hobbs, Assoc Prof Andrew Cain and Dr Kevin Lee.  
 * Jul 2022: Awarded one of the five Deakin University Faculty of Science, Engineering and Built Environment (SEBE) learning and teaching awards 2022 for the excellence in unit leadership and supporting students learning.
 * Jun 2020: A paper accepted by the SIGMAP 2022 Conferece. Congratulations all co-authors and many thanks to Arbind Agrahari Baniya (PhD Student) for leading the work.
