@@ -31,7 +31,7 @@ Journal articles
 
 Conference & workshop papers
 ----------------------------
-* D. Samariya, J. Ma and <b>S. Aryal</b>, 2022, A new effective and efficient measure for outlying aspect mining, Accepted to be published In <i>Proceedings of the 21st International Conference on Web Information Systems Engineering (WISE 2022)</i>
+* D. Samariya, J. Ma and <b>S. Aryal</b>, 2022, sGrid++ : Revising Simple Grid based Density Estimator for Mining Outlying Aspect, Accepted to be published In <i>Proceedings of the International Conference on Web Information Systems Engineering (WISE 2022)</i>
 * A. A. Baniya, T. K. Lee, P. Eklund, and <b>S. Aryal</b>, 2022, STIFS: Spatio-Temporal Input Frame Selection for Learning-based Video Super-Resolution Models, Accepted to be published In <i>Proceedings of the 19th International Conference on Signal Processing and Multimedia Applications (SIGMAP 2022)</i>
 * <b>S. Aryal</b> and J. R. Wells, 2021, Ensemble of Local Decision Trees for Anomaly Detection in Mixed Data, In <i>Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD 2021) </i> pp. 687-702
 * <b>S. Aryal</b>, A. A. Baniya, I. Razzak and K.C. Santosh, 2021, SPAD+: An Improved Probabilistic Anomaly Detector based on One-dimensional Histograms, In <i>Proceedings of the International Joint Conference on Neural Networks (IJCNN 2021)</i> pp. 1-7
