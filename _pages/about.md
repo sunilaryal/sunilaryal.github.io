@@ -16,6 +16,8 @@ I am a Senior Lecturer in IT at the School of Information Technology, Faculty of
 
 🌟***PhD Scholarships***🌟 are available to strong domestic and  international candidates. If you are interested in doing a PhD in artificial intelligence, machine learning or data mining, please contact <a href = "mailto: sunil.aryal@deakin.edu.au">me</a> or my colleague <a href = "mailto: reda.bouadjenek@deakin.edu.au">Reda</a> with your resume, a copy of the academic transcript of your highest qualification, list of publications (if no publications please include title and abstract of your honours/master’s thesis).
 
+---
+
 Recent updates
 ----------------------
 * Jul 2022: A paper accepted by the WISE 2022 Conference. Congratulations to Mr Durgesh Samariya (PhD Student at Federation University Australia) for leading the work.
