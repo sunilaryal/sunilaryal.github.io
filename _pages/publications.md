@@ -34,7 +34,7 @@ Journal articles
 
 Conference & workshop papers
 ----------------------------
-* V. V. Malgi*, S. Aryal*, Z. Rasool and D. Tay, 2023, Data-dependent and scale-invariant kernel for Support Vector Machine classification,<i>Proceedings of the 27th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2021)</i> (Accepted on 21 Feb 2023) *<i>Contributed equally</i>
+* V. V. Malgi*, <b>S. Aryal</b>*, Z. Rasool and D. Tay, 2023, Data-dependent and scale-invariant kernel for Support Vector Machine classification,<i>Proceedings of the 27th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2021)</i> (Accepted on 21 Feb 2023) *<i>Contributed equally</i>
 * D. Samariya, J. Ma and <b>S. Aryal</b>, 2022, sGrid++ : Revising Simple Grid based Density Estimator for Mining Outlying Aspect, Accepted to be published In <i>Proceedings of the International Conference on Web Information Systems Engineering (WISE 2022)</i>
 * A. A. Baniya, T. K. Lee, P. Eklund, and <b>S. Aryal</b>, 2022, STIFS: Spatio-Temporal Input Frame Selection for Learning-based Video Super-Resolution Models, Accepted to be published In <i>Proceedings of the 19th International Conference on Signal Processing and Multimedia Applications (SIGMAP 2022)</i>
 * <b>S. Aryal</b> and J. R. Wells, 2021, Ensemble of Local Decision Trees for Anomaly Detection in Mixed Data, In <i>Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD 2021) </i> pp. 687-702
