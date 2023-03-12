@@ -53,7 +53,7 @@ Research team
 * Dr Ashraf Uddin - Associate Research Fellow (Principal Supervisor, Deakin University, 2023-now)
 * Dr Mahdi Kazemi Moghaddam - Postdoctoral Research Fellow (Associate Supervisor, Deakin University, 2022-now)
 * Ms Echo Zhou - PhD Student (Principal Supervisor, Deakin University, 2022-now) 
-* Mr Dhiraj Neupane - PhD Student (Principla Supervisor, Deakin University, 2022-now)  
+* Mr Dhiraj Neupane - PhD Student (Principal Supervisor, Deakin University, 2022-now)  
 * Mr Jonathan R. Wells - Research Assistant (Principal Supervisor, Deakin University, 2020-now)
 * Mr Scott Johnson - Research Assistant (Associate Superviro, Deakin University, 2021-now)
 * Mr Gangadhar Sapkota - Master student (Principal Supervisor, Deakin University, 2021-now [Part-time])
