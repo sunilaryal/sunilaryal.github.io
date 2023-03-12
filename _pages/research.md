@@ -55,7 +55,7 @@ Research team
 * Ms Echo Zhou - PhD Student (Principal Supervisor, Deakin University, 2022-now) 
 * Mr Dhiraj Neupane - PhD Student (Principal Supervisor, Deakin University, 2022-now)  
 * Mr Jonathan R. Wells - Research Assistant (Principal Supervisor, Deakin University, 2020-now)
-* Mr Scott Johnson - Research Assistant (Associate Superviro, Deakin University, 2021-now)
+* Mr Scott Johnson - Research Assistant (Associate Supervisor, Deakin University, 2021-now)
 * Mr Gangadhar Sapkota - Master student (Principal Supervisor, Deakin University, 2021-now [Part-time])
 * Mr Lachlan Smith - Honor's Student (Principal Supervisor, Deakin University, 2023-now)
 * Mr Ngoc Dung Huynh - PhD Student (Associate Supervisor, Deakin University, 2022-now) 
