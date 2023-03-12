@@ -10,7 +10,7 @@ redirect_from:
 Journal articles
 ----------------
 * D. Samariya, J. Ma, <b>S. Aryal</b>, and Zhao, X, 2023, Detection and explanation of anomalies in healthcare data, <i>Health Information Science and Systems</i>, (Accepted on 26 February 2023)
-* Z. Rasool\*, <b>S. Aryal,</b>\*, M. R. Bouadjenek and R. Dazeley, 2023, Overcoming Weaknesses of Density Peak Clustering Using a Data-dependent Similarity Measure, <I>Pattern Recognition</i>, doi:10.1016/j.patcog.2022.109287 <i>\* Contributed equally</i>
+* Z. Rasool\*, <b>S. Aryal</b>\*, M. R. Bouadjenek and R. Dazeley, 2023, Overcoming Weaknesses of Density Peak Clustering Using a Data-dependent Similarity Measure, <I>Pattern Recognition</i>, doi:10.1016/j.patcog.2022.109287 <i>\* Contributed equally</i>
 * R. K. Halder, M. N. Uddin, M. A. Uddin, <b>S. Aryal</b>, M. A. Islam, F. Hossain, N. Jahan, A. Khraisat and A. Alazab, 2023, A Grid Search-Based Multilayer Dynamic Ensemble System to Identify DNA N4-Methylcytosine Using Deep Learning Approach, <i>Genes</i>, 14(3), Art. No. 582, doi:10.3390/genes14030582
 * T. T. Nguyen, M. Abdelrazek, D. T. Nguyen, <b>S. Aryal</b>, D. T. Nguyen, S. Reddy, Q. V. H. Nguyen, A. Khatami, T. T. Nguyen, E. B. Hsu and S. Yang, 2022, Origin of novel coronavirus causing COVID-19: A computational biology study using artificial intelligence, doi:10.1016/j.mlwa.2022.100328
 * K.C. Santosh, N. Rasmussen, M. Mamun, and <b>S. Aryal</b>, 2022, A systematic review on cough sound analysis for Covid-19 diagnosis and screening: is my cough sound COVID-19?, <i> PeerJ Computer Science</i>, 8:e958 doi:10.7717/peerj-cs.958
