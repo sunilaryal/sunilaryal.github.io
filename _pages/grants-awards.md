@@ -9,9 +9,11 @@ redirect_from:
 
 Research Grants
 ----------------
+* <b>Co-Investigator</b>, <i>Contributions to Edge and Multimodal Machine Learning</i>, <b>USD 360,000</b> [2023-2026], <ins>Technology Innovation Institute, UAE.</ins> 
+* <b>Co-Investigator</b>, <i>Cold-start Contract Cheating Identification from Side Information Using Latent Linear Writing Style Representation</i>, <b>AUD 12,000</b> [2022], <ins>Deakin Science & Society Network.</ins> 
 * <b>Principal Investigator</b>, <i>Creating a course-wide case study incorporating software-based learning infrastructure to facilitate authentic experiences and enhance learning outcomes for students in the Graduate Certificate of Information Technology</i>, <b>AUD 10,000</b> [2022], <ins>Deakin Design Seeding Grant, Deakin Learning Futures.</ins>   
 * <b>Co-Investigator</b>, <i>Application of Generic Actual Argument Model to represent complex decisions and generate narratives</i>, <b>AUD 30,000</b> [2022], led by Assoc Prof Richard Dazeley (Deakin University) funded by the <ins>Defence Science and Technology (DST) Group</ins> under the AI for Decision Making Initiative Round 3 Phase 1.
-* <b>Principal Investigator</b>, <i>Machine Learning in Heterogeneous Data from Multiple Sources</i>, <b>USD 225,000</b> [2022-2025], funded by the <ins>US Air Force Office of Scientific Research (AFOSR), Asian Office of Aerospace Research and Development (AOARD) </ins>
+* <b>Principal Investigator</b>, <i>Machine Learning in Heterogeneous Data from Multiple Sources</i>, <b>USD 225,000</b> [2022-2025], funded by the <ins>US Air Force Office of Scientific Research (AFOSR) [<span style="color:red">one of the two projects funded outside of US in the recent Director's Reseach Initative (DRI)</span>] </ins> 
 * <b>Principal Investigator</b>, <i>Window On Science Travel Award</i>, <b>USD 6,800</b> [2022], funded by the <ins>US Air Force Office of Scientific Research (AFOSR)</ins> to visit US Air Force and Space Force Labs in Virginia, USA
 * <b>Co-Investigator</b>, <i>Utilizing Extractive-Abstractive Summarization for Understanding the Narrative of Social Media Users from Multimodal Data</i>, <b>AUD 20,000</b> [2020], led by Dr Imran Razzak (Deakin University) funded by the <ins>Office of National Intelligence (ONI) Australia</ins> under the AI for Decision Making Initiative Rpound 2 Phase 1 through Defence Science Institute (DSI) Victoria Australia
 * <b>Principal Investigator</b>, <i>Efficient outlying aspect mining in data with mixed attributes</i>, <b>AUD 10,000</b> [2021], (sole investigator), an Early Career Researcher small grant funded by <ins>Deakin University, School of Information Technology</ins>
@@ -30,6 +32,7 @@ Research Grants
 
 Awards and Scholarships
 ------------------------
+* Deakin School of IT Research Award for Industry Engagement [2022]
 * Deakin Faculty of Science Engineering and Built Environment Learning and Teaching Award for Excellence in Unit Leadership and Supporting Student Learning [2022]
 * Deakin School of IT Research Award for Excellence in Early Career Research Performance [2021]
 * Deakin School of IT Teaching Award for Excellence in Unit Leadership and Supporting Student Learning [2021]
