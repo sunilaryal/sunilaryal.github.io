@@ -9,6 +9,7 @@ redirect_from:
 
 Research Grants
 ----------------
+* <b>Co-Investigator</b>, <i>Design and delivery of a Graduate Certificate of Secondary Digital Technologies</i>, <b>AUD 1,112,571</b> [2023-2026], <ins>Department of Education and Training, Victoria, Australia.</ins>
 * <b>Co-Investigator</b>, <i>Contributions to Edge and Multimodal Machine Learning</i>, <b>USD 360,000</b> [2023-2026], <ins>Technology Innovation Institute, UAE.</ins> 
 * <b>Co-Investigator</b>, <i>Cold-start Contract Cheating Identification from Side Information Using Latent Linear Writing Style Representation</i>, <b>AUD 12,000</b> [2022], <ins>Deakin Science & Society Network.</ins> 
 * <b>Principal Investigator</b>, <i>Creating a course-wide case study incorporating software-based learning infrastructure to facilitate authentic experiences and enhance learning outcomes for students in the Graduate Certificate of Information Technology</i>, <b>AUD 10,000</b> [2022], <ins>Deakin Design Seeding Grant, Deakin Learning Futures.</ins>   
