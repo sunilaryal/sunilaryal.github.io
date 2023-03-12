@@ -9,13 +9,16 @@ redirect_from:
 
 Journal articles
 ----------------
-* T. T. Nguyen, M. Abdelrazek, D. T. Nguyen, <b>S. Aryal</b>, D. T. Nguyen, S. Reddy, Q. V. H. Nguyen, A. Khatami, T. T. Nguyen, E. B. Hsu, S. Yang, 2022, Origin of novel coronavirus causing COVID-19: A computational biology study using artificial intelligence, doi: 10.1016/j.mlwa.2022.100328
-* K.C. Santosh, N. Rasmussen, M. Mamun, and <b>S. Aryal</b>, 2022, A systematic review on cough sound analysis for Covid-19 diagnosis and screening: is my cough sound COVID-19?, <i> PeerJ Computer Science</i>, 8:e958 doi: 10.7717/peerj-cs.958
-* J. Aryal, C. Sitaula, <b>S. Aryal</b>, 2022, NDVI Threshold-Based Urban Green Space Mapping from Sentinel-2A at the Local Governmental Area (LGA) Level of Victoria, Australia. <i>Land</i>, 11(3), 351, doi:10.3390/land11030351
-* C. Sitaula, T. B. Shahi, <b>S. Aryal</b>, F. Marzbanrad, 2021, Fusion of multi-scale bag of deep visual words features of chest X-ray images to detect COVID-19 infection. <i>Scientific Report </i>, 11, Article No. 23914, doi:10.1038/s41598-021-03287-8
-* C. Sitaula, <b>S. Aryal</b>, Y. Xiang, A. Basnet, X. Lu, 2021, Content and context features for scene image representation. <i>Knowledge-Based Systems</i>, doi:10.1016/j.knosys.2021.107470
-* X. Song, <b>S. Aryal</b>, K. Ting, Z. Liu, B. He, 2021, Spectral-Spatial Anomaly Detection of Hyperspectral Data Based on Improved Isolation Forest. <i>EEE Transactions on Geoscience and Remote Sensing</i>, doi:10.1109/tgrs.2021.3104998
-* C. Sitaula, Y. Xiang, <b>S. Aryal</b>, X. Lu, 2021, Scene image representation by foreground, background and hybrid features. <i>Expert Systems with Applications</i>, 182 pp 115285
+* D. Samariya, J. Ma, S. Aryal, and Zhao, X, 2023, Detection and explanation of anomalies in healthcare data, <i>Health Information Science and Systems</i>, (Accepted on 26 February 2023)
+* Z. Rasool*, S. Aryal*, M. R. Bouadjenek and R. Dazeley, 2023, Overcoming Weaknesses of Density Peak Clustering Using a Data-dependent Similarity Measure, <I>Pattern Recognition</i>, doi:10.1016/j.patcog.2022.109287 *Contributed equally
+* R. K. Halder, M. N. Uddin, M. A. Uddin, <b>S. Aryal</b>, M. A. Islam, F. Hossain, N. Jahan, A. Khraisat and A. Alazab, 2023, A Grid Search-Based Multilayer Dynamic Ensemble System to Identify DNA N4-Methylcytosine Using Deep Learning Approach, <i>Genes</i>, 14(3), Art. No. 582, doi:10.3390/genes14030582
+* T. T. Nguyen, M. Abdelrazek, D. T. Nguyen, <b>S. Aryal</b>, D. T. Nguyen, S. Reddy, Q. V. H. Nguyen, A. Khatami, T. T. Nguyen, E. B. Hsu and S. Yang, 2022, Origin of novel coronavirus causing COVID-19: A computational biology study using artificial intelligence, doi:10.1016/j.mlwa.2022.100328
+* K.C. Santosh, N. Rasmussen, M. Mamun, and <b>S. Aryal</b>, 2022, A systematic review on cough sound analysis for Covid-19 diagnosis and screening: is my cough sound COVID-19?, <i> PeerJ Computer Science</i>, 8:e958 doi:10.7717/peerj-cs.958
+* J. Aryal, C. Sitaula and <b>S. Aryal</b>, 2022, NDVI Threshold-Based Urban Green Space Mapping from Sentinel-2A at the Local Governmental Area (LGA) Level of Victoria, Australia. <i>Land</i>, 11(3), 351, doi:10.3390/land11030351
+* C. Sitaula, T. B. Shahi, <b>S. Aryal</b> and F. Marzbanrad, 2021, Fusion of multi-scale bag of deep visual words features of chest X-ray images to detect COVID-19 infection. <i>Scientific Report </i>, 11, Article No. 23914, doi:10.1038/s41598-021-03287-8
+* C. Sitaula, <b>S. Aryal</b>, Y. Xiang, A. Basnet and X. Lu, 2021, Content and context features for scene image representation. <i>Knowledge-Based Systems</i>, doi:10.1016/j.knosys.2021.107470
+* X. Song, <b>S. Aryal</b>, K. Ting, Z. Liu and B. He, 2021, Spectral-Spatial Anomaly Detection of Hyperspectral Data Based on Improved Isolation Forest. <i>EEE Transactions on Geoscience and Remote Sensing</i>, doi:10.1109/tgrs.2021.3104998
+* C. Sitaula, Y. Xiang, <b>S. Aryal</b> and X. Lu, 2021, Scene image representation by foreground, background and hybrid features. <i>Expert Systems with Applications</i>, 182 pp 115285
 * R. Dazeley, P. Vamplew, C. Foale, C. Young, <b>S. Aryal</b> and F. Cruz, 2021, Levels of Explainable Artificial Intelligence for Human-Aligned Conversational Explanations, <i>Artificial Intelligence</i>, 299, pp 103525 doi:j.artint.2021.103525
 *  C. Sitaula and <b>S. Aryal</b>, 2021, New Bag of Deep Visual Words based Features to Classify Chest X-ray Images for COVID-19 diagnosis, <i>Health Information Science and Systems</i>, (Accepted on 16 April 2021)
 * C. Sitaula, A. Basnet and <b>S. Aryal</b>, 2021, Vector representation based on a supervised codebook for Nepali documents classification, <i> PeerJ Computer Science</i>, 7:e412 doi: 10.7717/peerj-cs.412
@@ -31,6 +34,7 @@ Journal articles
 
 Conference & workshop papers
 ----------------------------
+* V. V. Malgi*, S. Aryal*, Z. Rasool and D. Tay, 2023, Data-dependent and scale-invariant kernel for Support Vector Machine classification,<i>Proceedings of the 27th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2021)</i> (Accepted on 21 Feb 2023) *Contributed equally
 * D. Samariya, J. Ma and <b>S. Aryal</b>, 2022, sGrid++ : Revising Simple Grid based Density Estimator for Mining Outlying Aspect, Accepted to be published In <i>Proceedings of the International Conference on Web Information Systems Engineering (WISE 2022)</i>
 * A. A. Baniya, T. K. Lee, P. Eklund, and <b>S. Aryal</b>, 2022, STIFS: Spatio-Temporal Input Frame Selection for Learning-based Video Super-Resolution Models, Accepted to be published In <i>Proceedings of the 19th International Conference on Signal Processing and Multimedia Applications (SIGMAP 2022)</i>
 * <b>S. Aryal</b> and J. R. Wells, 2021, Ensemble of Local Decision Trees for Anomaly Detection in Mixed Data, In <i>Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD 2021) </i> pp. 687-702
