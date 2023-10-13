@@ -12,4 +12,6 @@ Dr Sunil Aryal is a Senior Lecturer in the School of Information Technology at D
 
 ---
 
-🎓<span style="color:red">***PhD Scholarships***</span>🎓are available to strong domestic and  international candidates. If you are interested in doing a PhD in artificial intelligence, machine learning or data mining, please contact <a href = "mailto: sunil.aryal@deakin.edu.au">me</a> or my colleague <a href = "mailto: reda.bouadjenek@deakin.edu.au">Reda</a> with your resume, a copy of the academic transcript of your highest qualification, list of publications (if no publications please include title and abstract of your honours/master’s thesis) as soon as possible.
+<h4 class="feature-heading"> <a href="https://briccdc.com/bricc-news/afosr-transitions-practical-data-mining-to-space-operations">✨Research transition success story: Our collaboration with the US Space Force✨</a></h4>
+<img style="float: right;" src="\images\satellite-tracking.jpg">
+We are very happy to see our collaboration with US Space Force (USSF) Delta 2 featured in the Basic Research Innovation Collaboration Center (BRICC) news as a basic research transition success story. We have been working with USSF Delta 2 since late 2021 to use anomaly detection algorithms we developed in the satellite object tracking problem.  
