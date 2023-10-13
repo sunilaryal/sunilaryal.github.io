@@ -12,6 +12,5 @@ Dr Sunil Aryal is a Senior Lecturer in the School of Information Technology at D
 
 ---
 
-<h4 class="feature-heading"> <a href="https://briccdc.com/bricc-news/afosr-transitions-practical-data-mining-to-space-operations">✨Research transition success story: Our collaboration with the US Space Force✨</a></h4>
-<img style="float: right;" src="\images\satellite-tracking.jpg">
-We are very happy to see our collaboration with US Space Force (USSF) Delta 2 featured in the Basic Research Innovation Collaboration Center (BRICC) news as a basic research transition success story. We have been working with USSF Delta 2 since late 2021 to use anomaly detection algorithms we developed in the satellite object tracking problem.  
+<h4 class="feature-heading">🌠<a href="https://briccdc.com/bricc-news/afosr-transitions-practical-data-mining-to-space-operations">Research transition success story: Our collaboration with the US Space Force</a>🌠</h4>
+<img style="float: right;" src="\images\satellite-tracking.jpg"> We are very happy to see our collaboration with US Space Force (USSF) Delta 2 featured in the Basic Research Innovation Collaboration Center (BRICC) news as a basic research transition success story. We have been working with USSF Delta 2 since late 2021 to use anomaly detection algorithms we developed in the satellite object tracking problem.  
