@@ -9,6 +9,7 @@ redirect_from:
 
 Research Grants
 ----------------
+* <b>Principal Investigator</b>, <i>Intelligent Table Tennis Match Analysis: Automated Insights Extraction through Machine Learning and Computer Vision </i>, <b>AUD 62,500</b> [2023-2026], funded by the <ins>Table Tennis Australia (TTA)</ins>
 * <b>Co-Investigator</b>, <i>Empowering Agents with Human Feedback: Integrating Implicit and Explicit Signals in Deep Reinforcement Learning</i>, <b>USD 307,534</b> [2023-2025], funded by the <ins>US Air Force Office of Scientific Research (AFOSR), Asian Office of Aerospace Research and Development (AOARD)
 * <b>Co-Investigator</b>, <i>Design and delivery of a Graduate Certificate of Secondary Digital Technologies</i>, <b>AUD 1,112,571</b> [2023-2026], <ins>Department of Education and Training, Victoria, Australia.</ins>
 * <b>Co-Investigator</b>, <i>Contributions to Edge and Multimodal Machine Learning</i>, <b>USD 360,000</b> [2023-2026], <ins>Technology Innovation Institute, UAE.</ins> 
